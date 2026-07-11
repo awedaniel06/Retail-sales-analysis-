@@ -1,6 +1,6 @@
 # Retail Sales Performance Dashboard (Power BI)
 
-A 3-page Power BI reporting suite analyzing retail sales performance across five regions and twenty store branches in Nigeria, covering **484 transactions**, **2,580 units sold**, **182 unique customers**, and **₦102.19M+** in tracked sales between **January 2023 and July 2024**.
+A 3-page Power BI reporting suite analyzing retail sales performance across five regions and twenty store branches in Nigeria, covering **484 transactions**, **2,580 units sold**, **182 unique customers**, and **$102.19M+** in tracked sales between **January 2023 and July 2024**.
 
 The report is built as three linked pages — **Overview**, **Regional**, and **Customer** — each sharing a consistent slicer panel (Year, Month, SalesRepID) and region quick-filter buttons for seamless cross-page filtering.
 
@@ -67,8 +67,8 @@ Profiles the customer base by loyalty status, customer type, age group, and gend
 ## 👤 Author
 
 **Sphere (Daniel Awe Olamilekan)**
-Data Analytics Intern, AnalystLab Africa
-[LinkedIn](https://www.linkedin.com) · [GitHub](https://www.github.com)
+Data Analyst 
+[LinkedIn](https://www.linkedin.com/in/awedaniel06) · [GitHub](https://www.github.com)
 
 ---
 
