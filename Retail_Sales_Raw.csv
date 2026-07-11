@@ -1,0 +1,485 @@
+TransactionID,Order_Date,CustomerID,CustomerName,Gender,Age,Age_Category,Region,State,StoreID,StoreName,ProductID,ProductName,Category,SubCategory,Quantity,UnitPrice_NGN,Discount,TotalSales_NGN,Column1,SalesRepID,SalesRepName,CustomerType,ReturnFlag
+TXN10000,16/10/2024,CUST1189,Musa Nwosu,Male,61,Elder,North West,Kano,STR01,Kano Branch 1,PRD214,Itel A70,Electronics,Phones,4,42000,0.05,168000,Pos,SR001,Chukwuemeka Obi,Loyal,Yes
+TXN10001,15/12/2023,CUST1154,Blessing Musa,Female,40,Adult,North Central,Abuja,STR09,Abuja Branch 1,PRD701,Oral Rehydration Salts,Health & Beauty,Medicines,6,600,0,3600,Cash,SR005,Ibrahim Musa,Walk-In,No
+TXN10002,14/04/2023,CUST1179,Kola Adeyemi,Male,35,Youth,South West,Abeokuta,STR09,Abeokuta Branch 3,PRD399,Chin Chin 500g,Groceries,Snacks,4,800,0,3200,Cash,SR006,Ngozi Eze,Corporate,No
+TXN10003,03/09/2023,CUST1117,Blessing Nwosu,Female,59,Adult,South South,Warri,STR12,Warri Branch 3,PRD638,Bedside Table,Home & Kitchen,Furniture,6,12000,0,72000,Cash,SR002,Fatima Bello,Loyal,No
+TXN10004,27/11/2024,CUST1141,Seun Mohammed,Male,34,Youth,South West,Abeokuta,STR11,Abeokuta Branch 3,PRD174,Gown (Lace),Clothing,Women's Wear,3,22000,0,66000,Transfer,SR002,Fatima Bello,Loyal,No
+TXN10005,16/10/2024,CUST1000,Adaeze Eze,Female,51,Adult,North West,Kaduna,STR02,Kaduna Branch 2,PRD833,Leather Sandals,Clothing,Footwear,2,6500,0.1,13000,Transfer,SR003,Tunde Adeyemi,Loyal,No
+TXN10006,16/07/2024,CUST1176,Nneka Mohammed,Female,64,Elder,South South,Benin City,STR11,Benin City Branch 3,PRD338,Chinos Trousers,Clothing,Men's Wear,4,12000,0.1,48000,Cash,SR001,Chukwuemeka Obi,Walk-In,No
+TXN10007,23/08/2023,CUST1054,Kola Musa,Male,49,Adult,North West,Kano,STR10,Kano Branch 3,PRD981,Vitamin C Tablets,Health & Beauty,Medicines,2,1200,0.05,2400,Cash,SR002,Fatima Bello,Walk-In,Yes
+TXN10008,14/12/2023,CUST1046,Ibrahim Nwosu,Male,45,Adult,North Central,Jos,STR02,Jos Branch 2,PRD721,Wardrobe (2-door),Home & Kitchen,Furniture,1,95000,0,95000,Card,SR008,Aisha Mohammed,Corporate,No
+TXN10009,15/02/2024,CUST1073,Yetunde Okafor,Female,47,Adult,South East,Aba,STR09,Aba Branch 3,PRD466,Olay Face Cream,Health & Beauty,Skincare,9,8500,0,76500,Online,SR003,Tunde Adeyemi,Walk-In,No
+TXN10010,07/10/2023,CUST1148,Ibrahim Mohammed,Male,33,Youth,North West,Kano,STR07,Kano Branch 3,PRD114,Pressure Cooker,Home & Kitchen,Cookware,6,16000,0,96000,Online,SR006,Ngozi Eze,Walk-In,No
+TXN10011,30/07/2024,CUST1017,Bode Nwosu,Male,40,Adult,South South,Warri,STR08,Warri Branch 3,PRD731,Sports Shoes,Clothing,Footwear,1,18000,0,18000,Transfer,SR005,Ibrahim Musa,Walk-In,No
+TXN10012,06/09/2023,CUST1129,Aisha Badmus,Female,34,Youth,South East,Onitsha,STR01,Onitsha Branch 1,PRD981,Vitamin C Tablets,Health & Beauty,Medicines,5,1200,0.1,6000,Cash,SR002,Fatima Bello,Walk-In,No
+TXN10013,14/01/2024,CUST1091,Yetunde Adeyemi,Female,20,Youth,South South,Benin City,STR02,Benin City Branch 2,PRD915,Study Table,Home & Kitchen,Furniture,4,22000,0.05,88000,Cash,SR003,Tunde Adeyemi,Loyal,Yes
+TXN10014,26/02/2024,CUST1009,Aisha Bello,Female,42,Adult,South East,Enugu,STR08,Enugu Branch 2,PRD283,Corporate Shirt,Clothing,Men's Wear,4,8500,0,34000,Pos,SR006,Ngozi Eze,Loyal,Yes
+TXN10015,07/03/2024,CUST1009,Tunde Bello,Male,34,Youth,South West,Abeokuta,STR12,Abeokuta Branch 2,PRD701,Oral Rehydration Salts,Health & Beauty,Medicines,4,600,0,2400,Cash,SR006,Ngozi Eze,Corporate,No
+TXN10016,12/05/2023,CUST1104,Tunde Badmus,Male,60,Elder,North Central,Jos,STR09,Jos Branch 1,PRD550,Digestive Biscuits,Groceries,Snacks,10,1800,0,18000,Pos,SR004,Grace Nwosu,Corporate,Yes
+TXN10017,28/03/2024,CUST1169,Hauwa Badmus,Female,50,Adult,North West,Kaduna,STR04,Kaduna Branch 3,PRD283,Corporate Shirt,Clothing,Men's Wear,4,8500,0.05,34000,Card,SR004,Grace Nwosu,Loyal,Yes
+TXN10018,09/07/2023,CUST1132,Emeka Musa,Male,62,Elder,South East,Enugu,STR02,Enugu Branch 2,PRD399,Chin Chin 500g,Groceries,Snacks,6,800,0.15,4800,Card,SR008,Aisha Mohammed,Loyal,No
+TXN10019,09/11/2023,CUST1182,Yetunde Adesanya,N/A,22,Youth,North Central,Abuja,STR06,Abuja Branch 3,PRD958,Wireless Earbuds,Electronics,Accessories,4,18000,0.05,72000,Cash,SR004,Grace Nwosu,Corporate,Yes
+TXN10020,21/08/2024,CUST1192,Uche Mohammed,Male,37,Adult,South East,Onitsha,STR12,Onitsha Branch 3,PRD925,Knife Set,Home & Kitchen,Cookware,8,6000,0.05,48000,Transfer,SR008,Aisha Mohammed,Loyal,No
+TXN10021,29/08/2024,CUST1012,Tunde Okonkwo,Male,29,Youth,North Central,Jos,STR08,Jos Branch 2,PRD219,Corporate Suit,Clothing,Women's Wear,2,32000,0,64000,Transfer,SR004,Grace Nwosu,Loyal,No
+TXN10022,29/10/2024,CUST1032,Ibrahim Nwosu,Male,33,Youth,South East,Aba,STR04,Aba Branch 2,PRD833,Leather Sandals,Clothing,Footwear,3,6500,0,19500,Pos,SR007,Babatunde Okafor,Corporate,No
+TXN10023,12/08/2024,CUST1030,Fatima Badmus,Female,56,Adult,North West,Kano,STR07,Kano Branch 3,PRD121,Office Heels,Clothing,Footwear,1,12000,0,12000,Online,SR003,Tunde Adeyemi,Corporate,No
+TXN10024,28/10/2024,CUST1068,Amaka Adesanya,Female,55,Adult,North Central,Abuja,STR02,Abuja Branch 2,PRD673,Iron Tablets,Health & Beauty,Supplements,6,1500,0,9000,Transfer,SR005,Ibrahim Musa,Online,No
+TXN10025,19/12/2024,CUST1104,Ngozi Obi,Female,64,Elder,South East,Aba,STR12,Aba Branch 2,PRD981,Vitamin C Tablets,Health & Beauty,Medicines,7,1200,0.05,8400,Transfer,SR007,Babatunde Okafor,Loyal,Yes
+TXN10026,04/09/2024,CUST1137,Dayo Musa,N/A,65,Elder,South South,Port Harcourt,STR08,Port Harcourt Branch 2,PRD356,Non-stick Pot Set,Home & Kitchen,Cookware,4,9500,0.15,38000,Transfer,SR005,Ibrahim Musa,Walk-In,No
+TXN10027,15/12/2024,CUST1122,Dayo Musa,Male,48,Adult,South East,Onitsha,STR01,Onitsha Branch 2,PRD120,Paracetamol 500mg,Health & Beauty,Medicines,10,350,0.1,3500,Pos,SR002,Fatima Bello,Loyal,No
+TXN10028,03/02/2024,CUST1076,Nneka Nwosu,Female,46,Adult,North West,Kaduna,STR10,Kaduna Branch 1,PRD750,Electric Iron,Home & Kitchen,Appliances,5,8500,0,42500,Transfer,SR001,Chukwuemeka Obi,Corporate,No
+TXN10029,26/04/2024,CUST1175,Chioma Badmus,Female,22,Youth,South South,Warri,STR11,Warri Branch 3,PRD550,Digestive Biscuits,Groceries,Snacks,5,1800,0,9000,Pos,SR008,Aisha Mohammed,Walk-In,No
+TXN10030,17/12/2024,CUST1110,Yetunde Obi,N/A,20,Youth,North Central,Lokoja,STR02,Lokoja Branch 1,PRD901,Bookshelf,Home & Kitchen,Furniture,10,18000,0.15,180000,Online,SR005,Ibrahim Musa,Loyal,Yes
+TXN10031,18/05/2024,CUST1084,Kola Mohammed,Male,28,Youth,South East,Aba,STR11,Aba Branch 2,PRD554,Blender,Home & Kitchen,Appliances,5,12000,0.1,60000,Cash,SR008,Aisha Mohammed,Corporate,No
+TXN10032,01/06/2024,CUST1112,Dayo Okafor,Male,36,Adult,South East,Enugu,STR11,ENUGU Branch 3,PRD837,Lipton Tea Box,Groceries,Beverages,7,1200,0.05,8400,Pos,SR003,Tunde Adeyemi,Corporate,No
+TXN10033,10/07/2023,CUST1153,Dayo Nwosu,Male,30,Youth,North West,Sokoto,STR02,Sokoto Branch 2,PRD120,Paracetamol 500mg,Health & Beauty,Medicines,5,350,0.15,1750,Online,SR003,Tunde Adeyemi,Corporate,No
+TXN10034,19/07/2024,CUST1146,Dayo Eze,Male,33,Youth,South East,Enugu,STR07,Enugu Branch 1,PRD174,Gown (Lace),Clothing,Women's Wear,3,22000,0.1,66000,Transfer,SR002,Fatima Bello,Corporate,No
+TXN10035,04/12/2024,CUST1086,Yetunde Okonkwo,Female,34,Youth,North West,Sokoto,STR02,Sokoto Branch 2,PRD638,Bedside Table,Home & Kitchen,Furniture,9,12000,0,108000,Cash,SR002,Fatima Bello,Corporate,No
+TXN10036,21/12/2024,CUST1083,Chidi Badmus,Male,UNKNOWN,UNKNOWN,South West,Ibadan,STR07,Ibadan Branch 1,PRD637,Nescafe Classic,Groceries,Beverages,3,3500,0,10500,Online,SR003,Tunde Adeyemi,Loyal,No
+TXN10037,15/04/2024,CUST1088,Dayo Bello,Male,46,Adult,North West,Kaduna,STR07,Kaduna Branch 3,PRD174,Gown (Lace),Clothing,Women's Wear,2,22000,0.15,44000,Pos,SR001,Chukwuemeka Obi,Loyal,Yes
+TXN10038,02/08/2024,CUST1198,Ngozi Yakubu,Female,36,Adult,South South,Benin City,STR04,Benin City Branch 3,PRD550,Digestive Biscuits,Groceries,Snacks,2,1800,0.05,3600,Cash,SR006,Ngozi Eze,Loyal,No
+TXN10039,30/10/2023,CUST1135,Chidi Nwosu,Male,41,Adult,North West,Kaduna,STR05,Kaduna Branch 2,PRD138,T-Shirt 3-Pack,Clothing,Men's Wear,2,6500,0.15,13000,Card,SR006,Ngozi Eze,Walk-In,Yes
+TXN10041,19/05/2023,CUST1167,Hauwa Mohammed,N/A,44,Adult,South West,Ibadan,STR05,Ibadan Branch 1,PRD236,Traditional Agbada,Clothing,Men's Wear,2,28000,0.15,56000,Transfer,SR001,Chukwuemeka Obi,Corporate,No
+TXN10042,06/05/2023,CUST1005,Hauwa Musa,Female,56,Adult,South West,Ibadan,STR03,Ibadan Branch 3,PRD550,Digestive Biscuits,Groceries,Snacks,10,1800,0,18000,Cash,SR005,Ibrahim Musa,Loyal,No
+TXN10043,28/06/2023,CUST1150,Ngozi Adeyemi,Female,33,Youth,North Central,Abuja,STR01,Abuja Branch 1,PRD411,Ampiclox Capsules,Health & Beauty,Medicines,6,1800,0.1,10800,Cash,SR005,Ibrahim Musa,Corporate,No
+TXN10044,05/05/2024,CUST1082,Tunde Adesanya,Male,23,Youth,North West,Kano,STR05,Kano Branch 3,PRD721,Wardrobe (2-door),Home & Kitchen,Furniture,5,95000,0.15,475000,Pos,SR004,Grace Nwosu,Corporate,No
+TXN10045,28/02/2024,CUST1170,Seun Mohammed,Male,38,Adult,North Central,Jos,STR11,Jos Branch 2,PRD215,Samsung Galaxy A54,Electronics,Phones,7,210000,0.1,1470000,Cash,SR006,Ngozi Eze,Loyal,No
+TXN10046,12/11/2024,CUST1129,Emeka Bello,Male,54,Adult,South South,Port Harcourt,STR04,Port Harcourt Branch 1,PRD855,Skirt & Blouse,Clothing,Women's Wear,4,8000,0.2,32000,Cash,SR005,Ibrahim Musa,Walk-In,No
+TXN10047,13/11/2023,CUST1017,Emeka Adeyemi,N/A,43,Adult,South South,Benin City,STR01,Benin City Branch 1,PRD114,Pressure Cooker,Home & Kitchen,Cookware,6,16000,0.1,96000,Pos,SR001,Chukwuemeka Obi,Loyal,No
+TXN10048,20/02/2023,CUST1069,Chioma Okonkwo,N/A,44,Adult,South South,Benin City,STR07,Benin City Branch 1,PRD121,Office Heels,Clothing,Footwear,1,12000,0,12000,Cash,SR005,Ibrahim Musa,Loyal,No
+TXN10049,24/10/2023,CUST1180,Dayo Badmus,Male,52,Adult,South South,Benin City,STR11,Benin City Branch 2,PRD514,HP Pavilion,Electronics,Laptops,8,285000,0.1,2280000,Card,SR007,Babatunde Okafor,Online,No
+TXN10050,29/11/2023,CUST1062,Hauwa Badmus,Female,24,Youth,South East,Aba,STR02,Aba Branch 2,PRD283,Corporate Shirt,Clothing,Men's Wear,9,8500,0.2,76500,Transfer,SR006,Ngozi Eze,Loyal,No
+TXN10051,30/05/2023,CUST1197,Nneka Adeyemi,Female,29,Youth,South East,Onitsha,STR10,Onitsha Branch 2,PRD864,Frying Pan,Home & Kitchen,Cookware,3,4500,0.2,13500,Pos,SR001,Chukwuemeka Obi,Online,No
+TXN10052,04/07/2024,CUST1157,Uche Musa,N/A,23,Youth,North West,Sokoto,STR10,Sokoto Branch 3,PRD958,Wireless Earbuds,Electronics,Accessories,6,18000,0.05,108000,Pos,SR006,Ngozi Eze,Loyal,No
+TXN10053,26/06/2023,CUST1095,Dayo Adesanya,Male,41,Adult,North Central,Jos,STR06,Jos Branch 3,PRD901,Bookshelf,Home & Kitchen,Furniture,2,18000,0,36000,Transfer,SR006,Ngozi Eze,Walk-In,No
+TXN10054,14/11/2023,CUST1143,Seun Adeyemi,Male,37,Adult,South East,Aba,STR03,Aba Branch 3,PRD638,Bedside Table,Home & Kitchen,Furniture,9,12000,0,108000,Transfer,SR008,Aisha Mohammed,Loyal,No
+TXN10055,06/08/2023,CUST1009,Fatima Obi,Female,51,Adult,North Central,Lokoja,STR07,Lokoja Branch 1,PRD550,Digestive Biscuits,Groceries,Snacks,8,1800,0.05,14400,Pos,SR008,Aisha Mohammed,Loyal,No
+TXN10056,25/04/2024,CUST1196,Blessing Okonkwo,Female,47,Adult,North Central,Jos,STR07,Jos Branch 1,PRD278,Rice 5kg,Groceries,Grains,8,4500,0.2,36000,Pos,SR005,Ibrahim Musa,Walk-In,No
+TXN10057,06/09/2024,CUST1106,Tunde Nwosu,Male,19,Youth,South West,Ibadan,STR04,Ibadan Branch 2,PRD664,Infinix Hot 40,Electronics,Phones,3,75000,0.15,225000,Transfer,SR008,Aisha Mohammed,Corporate,No
+TXN10058,20/01/2023,CUST1028,Adaeze Obi,Female,45,Adult,North Central,Abuja,STR01,Abuja Branch 1,PRD808,Vaseline Body Lotion,Health & Beauty,Skincare,8,28000,0,224000,Transfer,SR005,Ibrahim Musa,Corporate,No
+TXN10059,09/04/2023,CUST1134,Fatima Obi,Female,UNKNOWN,UNKNOWN,North West,Sokoto,STR09,Sokoto Branch 3,PRD120,Power Bank,Electronics,Accessories,6,12000,0,72000,Cash,SR002,Fatima Bello,Walk-In,Yes
+TXN10060,27/12/2023,CUST1046,Adaeze Okonkwo,Female,58,Adult,South South,Port Harcourt,STR08,Port Harcourt Branch 1,PRD236,Traditional Agbada,Clothing,Men's Wear,5,28000,0,140000,Cash,SR004,Grace Nwosu,Online,Yes
+TXN10061,18/02/2023,CUST1190,Bode Musa,N/A,43,Adult,South East,Onitsha,STR03,Onitsha Branch 2,PRD120,Paracetamol 500mg,Health & Beauty,Medicines,7,350,0.1,2450,Pos,SR006,Ngozi Eze,Walk-In,No
+TXN10062,30/10/2023,CUST1186,Yetunde Adeyemi,Female,20,Youth,North Central,Lokoja,STR05,Lokoja Branch 3,PRD120,Power Bank,Electronics,Accessories,6,12000,0,72000,Transfer,SR008,Aisha Mohammed,Walk-In,No
+TXN10063,22/10/2024,CUST1095,Uche Okafor,Male,41,Adult,South East,Enugu,STR09,Enugu Branch 2,PRD808,Vaseline Body Lotion,Health & Beauty,Skincare,3,2800,0,8400,Pos,SR008,Aisha Mohammed,Loyal,No
+TXN10064,17/05/2024,CUST1174,Fatima Adesanya,Female,23,Youth,North Central,Lokoja,STR02,Lokoja Branch 3,PRD750,Electric Iron,Home & Kitchen,Appliances,6,8500,0,51000,Cash,SR008,Aisha Mohammed,Walk-In,Yes
+TXN10065,13/01/2024,CUST1101,Adaeze Yakubu,Female,UNKNOWN,UNKNOWN,South East,Aba,STR07,Aba Branch 3,PRD944,iPhone 14,Electronics,Phones,8,420000,0.2,3360000,Transfer,SR003,Tunde Adeyemi,Corporate,No
+TXN10066,14/06/2024,CUST1072,Adaeze Eze,Female,51,Adult,South West,Ibadan,STR09,Ibadan Branch 2,PRD837,Lipton Tea Box,Groceries,Beverages,3,1200,0.1,3600,Transfer,SR001,Chukwuemeka Obi,Walk-In,No
+TXN10067,18/10/2024,CUST1160,Seun Yakubu,N/A,49,Adult,North West,Kaduna,STR05,Kaduna Branch 2,PRD381,Garri 5kg,Groceries,Grains,2,3200,0.05,6400,Cash,SR006,Ngozi Eze,Walk-In,No
+TXN10068,23/11/2023,CUST1027,Blessing Mohammed,Female,53,Adult,North Central,Abuja,STR05,Abuja Branch 2,PRD337,Beans 2kg,Groceries,Grains,7,3800,0,26600,Transfer,SR004,Grace Nwosu,Loyal,No
+TXN10069,23/04/2024,CUST1061,Blessing Okafor,N/A,47,Adult,South South,Benin City,STR01,Benin City Branch 2,PRD673,Iron Tablets,Health & Beauty,Supplements,5,1500,0,7500,Transfer,SR007,Babatunde Okafor,Online,No
+TXN10070,08/06/2024,CUST1071,Hauwa Bello,N/A,53,Adult,North West,Sokoto,STR03,Sokoto Branch 1,PRD582,Protein Powder 1kg,Health & Beauty,Supplements,3,18000,0,54000,Cash,SR003,Tunde Adeyemi,Loyal,Yes
+TXN10071,15/06/2024,CUST1100,Amaka Adeyemi,Female,28,Youth,North West,Sokoto,STR10,Sokoto Branch 2,PRD721,Wardrobe (2-door),Home & Kitchen,Furniture,5,95000,0,475000,Card,SR005,Ibrahim Musa,Loyal,No
+TXN10072,29/09/2023,CUST1122,Nneka Yakubu,Female,UNKNOWN,UNKNOWN,South South,Benin City,STR10,Benin City Branch 2,PRD639,Pringles Can,Groceries,Snacks,4,3200,0.15,12800,Cash,SR007,Babatunde Okafor,Walk-In,No
+TXN10073,03/05/2023,CUST1096,Aisha Obi,Female,51,Adult,North Central,Abuja,STR09,Abuja Branch 2,PRD901,Bookshelf,Home & Kitchen,Furniture,10,18000,0,180000,Cash,SR005,Ibrahim Musa,Online,No
+TXN10074,15/05/2024,CUST1139,Hauwa Badmus,N/A,61,Elder,South East,Onitsha,STR03,Onitsha Branch 2,PRD942,Acer Aspire 5,Electronics,Laptops,5,275000,0,1375000,Pos,SR003,Tunde Adeyemi,Walk-In,No
+TXN10075,16/11/2024,CUST1025,Aisha Okafor,Female,48,Adult,South South,Port Harcourt,STR03,Port Harcourt Branch 2,PRD527,Zinc Supplement,Health & Beauty,Medicines,5,2500,0.1,12500,Cash,SR001,Chukwuemeka Obi,Loyal,Yes
+TXN10076,30/06/2023,CUST1009,Seun Adesanya,Male,36,Adult,South West,Ibadan,STR02,Ibadan Branch 2,PRD424,Loafers,Clothing,Footwear,3,14000,0,42000,Transfer,SR003,Tunde Adeyemi,Loyal,No
+TXN10077,07/10/2023,CUST1163,Uche Yakubu,N/A,57,Adult,South East,Onitsha,STR02,Onitsha Branch 2,PRD948,Dell Inspiron 15,Electronics,Laptops,1,320000,0,320000,Pos,SR001,Chukwuemeka Obi,Online,Yes
+TXN10078,03/05/2023,CUST1197,Musa Adeyemi,Male,63,Elder,North Central,Lokoja,STR05,Lokoja Branch 2,PRD114,Pressure Cooker,Home & Kitchen,Cookware,8,16000,0.1,128000,Online,SR004,Grace Nwosu,Loyal,No
+TXN10079,24/06/2024,CUST1051,Uche Musa,Male,50,Adult,North West,Sokoto,STR06,Sokoto Branch 3,PRD673,Iron Tablets,Health & Beauty,Supplements,2,1500,0,3000,Transfer,SR007,Babatunde Okafor,Corporate,No
+TXN10080,19/11/2024,CUST1055,Emeka Mohammed,Male,UNKNOWN,UNKNOWN,North West,Kano,STR06,KANO Branch 3,PRD944,iPhone 14,Electronics,Phones,1,420000,0.15,420000,Card,SR006,Ngozi Eze,Corporate,No
+TXN10081,22/01/2024,CUST1137,Bode Adeyemi,Male,29,Youth,South East,Aba,STR04,Aba Branch 1,PRD128,Screen Protector,Electronics,Accessories,7,1800,0,12600,Transfer,SR005,Ibrahim Musa,Loyal,No
+TXN10083,11/07/2024,CUST1044,Musa Bello,Male,65,Elder,South East,Aba,STR06,Aba Branch 3,PRD411,Ampiclox Capsules,Health & Beauty,Medicines,3,1800,0,5400,Cash,SR005,Ibrahim Musa,Loyal,No
+TXN10084,03/01/2023,CUST1084,Bode Obi,Male,31,Youth,South West,Ibadan,STR02,Ibadan Branch 3,PRD337,Beans 2kg,Groceries,Grains,10,3800,0.1,38000,Cash,SR008,Aisha Mohammed,Loyal,Yes
+TXN10085,16/01/2023,CUST1178,Fatima Badmus,Female,33,Youth,North West,Sokoto,STR04,Sokoto Branch 3,PRD121,Office Heels,Clothing,Footwear,5,12000,0,60000,Online,SR006,Ngozi Eze,Loyal,Yes
+TXN10086,16/02/2023,CUST1184,Adaeze Okafor,Female,55,Adult,South East,Onitsha,STR06,Onitsha Branch 1,PRD582,Protein Powder 1kg,Health & Beauty,Supplements,5,18000,0.15,90000,Online,SR008,Aisha Mohammed,Loyal,Yes
+TXN10087,13/07/2024,CUST1012,Ngozi Obi,Female,60,Elder,South West,Ibadan,STR11,Ibadan Branch 1,PRD120,Power Bank,Electronics,Accessories,6,12000,0.05,72000,Online,SR001,Chukwuemeka Obi,Walk-In,Yes
+TXN10089,27/10/2024,CUST1002,Seun Mohammed,Male,58,Adult,South South,Port Harcourt,STR07,Port Harcourt Branch 3,PRD216,Jean Trousers,Clothing,Men's Wear,1,15000,0.1,15000,Online,SR005,Ibrahim Musa,Walk-In,No
+TXN10090,15/10/2023,CUST1150,Ngozi Adeyemi,Female,31,Youth,South South,Benin City,STR02,Benin City Branch 2,PRD337,Beans 2kg,Groceries,Grains,6,3800,0.15,22800,Pos,SR006,Ngozi Eze,Walk-In,No
+TXN10091,19/03/2023,CUST1162,Nneka Yakubu,Female,19,Youth,North Central,Jos,STR06,Jos Branch 3,PRD673,Iron Tablets,Health & Beauty,Supplements,2,1500,0,3000,Pos,SR005,Ibrahim Musa,Loyal,Yes
+TXN10092,10/11/2024,CUST1078,Kola Eze,Male,UNKNOWN,UNKNOWN,South East,Onitsha,STR02,Onitsha Branch 1,PRD128,Screen Protector,Electronics,Accessories,7,1800,0.1,12600,Transfer,SR007,Babatunde Okafor,Walk-In,No
+TXN10093,28/03/2023,CUST1035,Aisha Yakubu,Female,28,Youth,North Central,Jos,STR03,Jos Branch 1,PRD278,Rice 5kg,Groceries,Grains,6,4500,0.1,27000,Cash,SR008,Aisha Mohammed,Walk-In,No
+TXN10094,02/10/2024,CUST1152,Yetunde Eze,Female,59,Adult,South South,Warri,STR12,Warri Branch 1,PRD527,Zinc Supplement,Health & Beauty,Medicines,8,2500,0,20000,Card,SR006,Ngozi Eze,Walk-In,No
+TXN10095,07/12/2024,CUST1053,Amaka Okafor,Female,63,Elder,South East,Onitsha,STR02,Onitsha Branch 2,PRD981,Vitamin C Tablets,Health & Beauty,Medicines,7,1200,0.05,8400,Card,SR007,Babatunde Okafor,Walk-In,No
+TXN10096,01/04/2024,CUST1168,Amaka Yakubu,Female,33,Youth,North Central,Abuja,STR01,Abuja Branch 3,PRD120,Paracetamol 500mg,Health & Beauty,Medicines,1,350,0.1,350,Cash,SR008,Aisha Mohammed,Online,Yes
+TXN10097,26/11/2024,CUST1106,Adaeze Eze,Female,36,Adult,South West,Lagos,STR12,Lagos Branch 1,PRD216,Jean Trousers,Clothing,Men's Wear,8,15000,0.05,120000,Transfer,SR002,Fatima Bello,Online,No
+TXN10098,28/04/2023,CUST1062,Ibrahim Okonkwo,N/A,65,Elder,North West,Kano,STR06,Kano Branch 3,PRD981,Vitamin C Tablets,Health & Beauty,Medicines,3,1200,0,3600,Cash,SR008,Aisha Mohammed,Walk-In,Yes
+TXN10099,22/12/2024,CUST1093,Chidi Yakubu,N/A,29,Youth,North Central,Abuja,STR05,Abuja Branch 3,PRD673,Iron Tablets,Health & Beauty,Supplements,10,1500,0.05,15000,Transfer,SR005,Ibrahim Musa,Walk-In,No
+TXN10100,17/11/2023,CUST1107,Ibrahim Adeyemi,N/A,42,Adult,North West,Kano,STR07,Kano Branch 1,PRD231,Multivitamin Pack,Health & Beauty,Supplements,9,6200,0.2,55800,Online,SR001,Chukwuemeka Obi,Online,No
+TXN10101,19/07/2023,CUST1181,Amaka Okonkwo,Female,44,Adult,South East,Onitsha,STR10,Onitsha Branch 1,PRD391,Gala Sausage Roll,Groceries,Snacks,3,350,0.05,1050,Pos,SR002,Fatima Bello,Online,Yes
+TXN10102,02/12/2023,CUST1192,Bode Nwosu,Male,59,Adult,South South,Warri,STR01,Warri Branch 2,PRD385,Ankara Dress,Clothing,Women's Wear,4,9500,0.2,38000,Card,SR003,Tunde Adeyemi,Walk-In,No
+TXN10103,31/07/2023,CUST1180,Blessing Obi,Female,38,Adult,North Central,Jos,STR09,Jos Branch 3,PRD514,HP Pavilion,Electronics,Laptops,5,285000,0,1425000,Transfer,SR006,Ngozi Eze,Loyal,Yes
+TXN10104,14/08/2024,CUST1103,Seun Mohammed,Male,23,Youth,North West,Sokoto,STR06,Sokoto Branch 2,PRD977,Omega-3 Fish Oil,Health & Beauty,Supplements,8,5500,0.2,44000,Card,SR004,Grace Nwosu,Corporate,No
+TXN10105,27/11/2023,CUST1174,Hauwa Yakubu,N/A,39,Adult,South West,Lagos,STR08,Lagos Branch 1,PRD514,HP Pavilion,Electronics,Laptops,7,285000,0.15,1995000,Pos,SR003,Tunde Adeyemi,Online,No
+TXN10106,14/09/2023,CUST1193,Chidi Okafor,Male,62,Elder,South South,Warri,STR12,Warri Branch 1,PRD958,Wireless Earbuds,Electronics,Accessories,9,18000,0.2,162000,Pos,SR007,Babatunde Okafor,Loyal,No
+TXN10107,23/08/2023,CUST1097,Tunde Musa,Male,26,Youth,South South,Benin City,STR03,Benin City Branch 1,PRD416,Water Dispenser,Home & Kitchen,Appliances,6,45000,0.05,270000,Online,SR004,Grace Nwosu,Walk-In,No
+TXN10108,05/07/2023,CUST1165,Kola Mohammed,Male,35,Youth,South West,Lagos,STR10,Lagos Branch 3,PRD554,Blender,Home & Kitchen,Appliances,4,12000,0,48000,Cash,SR004,Grace Nwosu,Corporate,Yes
+TXN10109,26/05/2024,CUST1099,Bode Okafor,Male,26,Youth,North West,Kaduna,STR11,Kaduna Branch 1,PRD466,Olay Face Cream,Health & Beauty,Skincare,2,8500,0.2,17000,Card,SR005,Ibrahim Musa,Loyal,Yes
+TXN10110,16/02/2024,CUST1130,Amaka Yakubu,Female,23,Youth,South South,Port Harcourt,STR07,Port Harcourt Branch 3,PRD215,Samsung Galaxy A54,Electronics,Phones,4,210000,0.1,840000,Cash,SR005,Ibrahim Musa,Loyal,No
+TXN10111,25/12/2024,CUST1066,Chidi Adesanya,Male,64,Elder,South South,Warri,STR05,Warri Branch 3,PRD819,Lenovo IdeaPad,Electronics,Laptops,9,295000,0,2655000,Online,SR008,Aisha Mohammed,Walk-In,Yes
+TXN10112,08/03/2024,CUST1058,Chioma Musa,Female,25,Youth,North West,Kano,STR01,KANO Branch 1,PRD831,Tecno Spark 20,Electronics,Phones,1,85000,0.05,85000,Cash,SR006,Ngozi Eze,Loyal,Yes
+TXN10113,24/11/2023,CUST1045,Uche Eze,Male,21,Youth,South South,Benin City,STR07,Benin City Branch 1,PRD527,Zinc Supplement,Health & Beauty,Medicines,2,25000,0.1,50000,Pos,SR004,Grace Nwosu,Corporate,Yes
+TXN10114,20/05/2024,CUST1038,Aisha Badmus,Female,33,Youth,South West,Ibadan,STR09,IBADAN Branch 2,PRD120,Power Bank,Electronics,Accessories,5,12000,0.05,60000,Cash,SR003,Tunde Adeyemi,Loyal,No
+TXN10115,26/08/2023,CUST1021,Yetunde Badmus,Female,65,Elder,North West,Kano,STR11,Kano Branch 2,PRD958,Wireless Earbuds,Electronics,Accessories,4,18000,0.05,72000,Transfer,SR006,Ngozi Eze,Corporate,No
+TXN10116,27/07/2023,CUST1080,Nneka Musa,Female,47,Adult,South East,Enugu,STR04,Enugu Branch 2,PRD338,Chinos Trousers,Clothing,Men's Wear,5,12000,0,60000,Transfer,SR003,Tunde Adeyemi,Walk-In,No
+TXN10117,02/10/2024,CUST1115,Musa Bello,Male,43,Adult,North West,Sokoto,STR02,Sokoto Branch 2,PRD215,Samsung Galaxy A54,Electronics,Phones,4,210000,0.15,840000,Pos,SR005,Ibrahim Musa,Walk-In,No
+TXN10118,22/07/2023,CUST1031,Chidi Musa,Male,39,Adult,South West,Ibadan,STR10,IBADAN Branch 2,PRD981,Vitamin C Tablets,Health & Beauty,Medicines,6,1200,0,7200,Cash,SR004,Grace Nwosu,Loyal,No
+TXN10119,17/07/2024,CUST1063,Musa Mohammed,Male,51,Adult,North West,Kano,STR12,Kano Branch 2,PRD355,Calcium 600mg,Health & Beauty,Supplements,6,2800,0,16800,Cash,SR005,Ibrahim Musa,Walk-In,No
+TXN10120,21/08/2024,CUST1014,Fatima Nwosu,Female,65,Elder,South South,Benin City,STR07,Benin City Branch 2,PRD391,Gala Sausage Roll,Groceries,Snacks,10,350,0.1,3500,Transfer,SR004,Grace Nwosu,Corporate,No
+TXN10121,02/08/2023,CUST1157,Nneka Nwosu,Female,39,Adult,South South,Port Harcourt,STR03,Port Harcourt Branch 2,PRD958,Wireless Earbuds,Electronics,Accessories,2,18000,0,36000,Card,SR002,Fatima Bello,Online,No
+TXN10122,06/11/2023,CUST1177,Dayo Okonkwo,Male,53,Adult,North West,Kaduna,STR10,Kaduna Branch 1,PRD575,Fair & White Cream,Health & Beauty,Skincare,1,4200,0.2,4200,Cash,SR003,Tunde Adeyemi,Walk-In,Yes
+TXN10123,18/09/2024,CUST1088,Fatima Adesanya,Female,33,Youth,North Central,Abuja,STR02,Abuja Branch 3,PRD283,Corporate Shirt,Clothing,Men's Wear,6,8500,0,51000,Card,SR008,Aisha Mohammed,Loyal,Yes
+TXN10124,28/02/2024,CUST1166,Kola Obi,Male,54,Adult,South South,Port Harcourt,STR01,Port Harcourt Branch 2,PRD664,Infinix Hot 40,Electronics,Phones,3,75000,0,225000,Pos,SR006,Ngozi Eze,Walk-In,No
+TXN10125,17/03/2024,CUST1048,Nneka Mohammed,Female,31,Youth,South East,Aba,STR12,Aba Branch 3,PRD283,Corporate Shirt,Clothing,Men's Wear,7,8500,0,59500,Cash,SR007,Babatunde Okafor,Walk-In,No
+TXN10126,10/02/2024,CUST1121,Fatima Okafor,Female,23,Youth,South West,Ibadan,STR08,Ibadan Branch 2,PRD424,Loafers,Clothing,Footwear,3,14000,0,42000,Pos,SR008,Aisha Mohammed,Corporate,No
+TXN10127,10/03/2023,CUST1193,Fatima Musa,Female,44,Adult,North West,Kano,STR07,Kano Branch 3,PRD701,Oral Rehydration Salts,Health & Beauty,Medicines,4,600,0.15,2400,Cash,SR003,Tunde Adeyemi,Walk-In,No
+TXN10128,21/06/2023,CUST1111,Aisha Adeyemi,Female,61,Elder,South South,Benin City,STR10,Benin City Branch 2,PRD283,Corporate Shirt,Clothing,Men's Wear,7,8500,0.1,59500,Online,SR001,Chukwuemeka Obi,Loyal,Yes
+TXN10129,06/03/2023,CUST1073,Nneka Musa,Female,24,Youth,North West,Kaduna,STR05,Kaduna Branch 2,PRD148,Dove Soap 6-Pack,Health & Beauty,Skincare,7,3500,0,24500,Card,SR006,Ngozi Eze,Loyal,No
+TXN10130,01/05/2024,CUST1125,Emeka Eze,N/A,35,Youth,South West,Lagos,STR12,Lagos Branch 2,PRD833,Leather Sandals,Clothing,Footwear,4,6500,0.05,26000,Transfer,SR001,Chukwuemeka Obi,Walk-In,No
+TXN10131,27/12/2024,CUST1014,Amaka Yakubu,Female,30,Youth,South South,Port Harcourt,STR06,Port Harcourt Branch 3,PRD872,Dankwa Groundnut,Groceries,Snacks,2,500,0.05,1000,Transfer,SR008,Aisha Mohammed,Walk-In,Yes
+TXN10132,22/09/2023,CUST1146,Tunde Bello,Male,UNKNOWN,UNKNOWN,South South,Port Harcourt,STR11,Port Harcourt Branch 1,PRD833,Leather Sandals,Clothing,Footwear,8,6500,0,52000,Cash,SR005,Ibrahim Musa,Walk-In,No
+TXN10133,27/12/2024,CUST1173,Seun Eze,Male,37,Adult,North West,Sokoto,STR02,Sokoto Branch 1,PRD446,Cutting Board,Home & Kitchen,Cookware,10,2200,0,22000,Transfer,SR005,Ibrahim Musa,Loyal,Yes
+TXN10134,25/09/2023,CUST1153,Musa Nwosu,Male,21,Youth,South East,Aba,STR03,Aba Branch 3,PRD942,Acer Aspire 5,Electronics,Laptops,7,275000,0.1,1925000,Cash,SR006,Ngozi Eze,Loyal,No
+TXN10135,15/10/2024,CUST1142,Kola Obi,Male,60,Elder,South South,Warri,STR03,Warri Branch 3,PRD236,Traditional Agbada,Clothing,Men's Wear,2,28000,0.05,56000,Transfer,SR006,Ngozi Eze,Online,No
+TXN10136,05/01/2023,CUST1128,Nneka Yakubu,Female,30,Youth,South West,Abeokuta,STR05,Abeokuta Branch 2,PRD664,Infinix Hot 40,Electronics,Phones,7,75000,0,525000,Transfer,SR003,Tunde Adeyemi,Walk-In,No
+TXN10137,07/01/2023,CUST1147,Emeka Adesanya,Male,28,Youth,South South,Warri,STR02,Warri Branch 1,PRD925,Knife Set,Home & Kitchen,Cookware,7,6000,0,42000,Transfer,SR004,Grace Nwosu,Walk-In,No
+TXN10138,09/12/2023,CUST1042,Uche Adeyemi,N/A,37,Adult,South West,Lagos,STR05,Lagos Branch 2,PRD915,Study Table,Home & Kitchen,Furniture,6,22000,0,132000,Card,SR001,Chukwuemeka Obi,Loyal,No
+TXN10139,15/05/2023,CUST1009,Uche Obi,Male,59,Adult,South East,Aba,STR09,Aba Branch 3,PRD215,Samsung Galaxy A54,Electronics,Phones,1,210000,0.1,210000,Pos,SR008,Aisha Mohammed,Loyal,No
+TXN10140,12/03/2024,CUST1155,Aisha Okonkwo,N/A,57,Adult,South South,Warri,STR02,Warri Branch 3,PRD416,Water Dispenser,Home & Kitchen,Appliances,4,45000,0,180000,Transfer,SR007,Babatunde Okafor,Online,No
+TXN10142,29/04/2023,CUST1084,Ngozi Okafor,Female,28,Youth,North Central,Jos,STR05,Jos Branch 3,PRD944,iPhone 14,Electronics,Phones,7,420000,0.2,2940000,Online,SR007,Babatunde Okafor,Loyal,No
+TXN10143,13/12/2024,CUST1173,Adaeze Musa,Female,54,Adult,South East,Enugu,STR06,Enugu Branch 3,PRD958,Wireless Earbuds,Electronics,Accessories,8,18000,0,144000,Pos,SR005,Ibrahim Musa,Loyal,Yes
+TXN10145,05/12/2023,CUST1020,Bode Nwosu,Male,33,Youth,South East,Onitsha,STR08,Onitsha Branch 1,PRD120,Paracetamol 500mg,Health & Beauty,Medicines,2,350,0.2,700,Pos,SR005,Ibrahim Musa,Walk-In,No
+TXN10146,12/04/2024,CUST1153,Tunde Nwosu,N/A,57,Adult,South East,Aba,STR12,Aba Branch 2,PRD958,Wireless Earbuds,Electronics,Accessories,1,18000,0,18000,Transfer,SR002,Fatima Bello,Walk-In,No
+TXN10147,24/02/2024,CUST1117,Aisha Nwosu,Female,31,Youth,South South,Benin City,STR07,Benin City Branch 1,PRD446,Cutting Board,Home & Kitchen,Cookware,9,2200,0,19800,Card,SR008,Aisha Mohammed,Walk-In,No
+TXN10148,27/06/2023,CUST1129,Fatima Mohammed,Female,38,Adult,South East,Onitsha,STR12,Onitsha Branch 1,PRD174,Gown (Lace),Clothing,Women's Wear,3,22000,0.1,66000,Pos,SR006,Ngozi Eze,Loyal,No
+TXN10149,10/01/2024,CUST1128,Kola Okonkwo,Male,29,Youth,North West,Sokoto,STR12,Sokoto Branch 1,PRD424,Loafers,Clothing,Footwear,9,14000,0.1,126000,Pos,SR001,Chukwuemeka Obi,Corporate,No
+TXN10150,27/02/2023,CUST1176,Adaeze Bello,Female,21,Youth,North Central,Abuja,STR01,Abuja Branch 2,PRD355,Calcium 600mg,Health & Beauty,Supplements,4,2800,0.2,11200,Pos,SR001,Chukwuemeka Obi,Corporate,Yes
+TXN10151,12/02/2024,CUST1057,Ngozi Okafor,Female,46,Adult,North Central,Lokoja,STR10,Lokoja Branch 1,PRD639,Pringles Can,Groceries,Snacks,3,3200,0,9600,Card,SR005,Ibrahim Musa,Walk-In,No
+TXN10152,21/08/2024,CUST1082,Kola Adesanya,Male,27,Youth,North West,Kano,STR11,Kano Branch 3,PRD385,Ankara Dress,Clothing,Women's Wear,6,9500,0.2,57000,Transfer,SR007,Babatunde Okafor,Walk-In,Yes
+TXN10153,15/08/2023,CUST1135,Kola Eze,Male,57,Adult,South East,Aba,STR11,Aba Branch 1,PRD128,Screen Protector,Electronics,Accessories,10,1800,0.05,18000,Pos,SR007,Babatunde Okafor,Online,No
+TXN10156,12/03/2024,CUST1121,Musa Adesanya,Male,19,Youth,South South,Benin City,STR12,Benin City Branch 2,PRD864,Frying Pan,Home & Kitchen,Cookware,1,4500,0,4500,Card,SR002,Fatima Bello,Online,No
+TXN10157,19/12/2023,CUST1049,Bode Adeyemi,Male,34,Youth,South West,Lagos,STR10,Lagos Branch 1,PRD356,Non-stick Pot Set,Home & Kitchen,Cookware,5,9500,0,47500,Transfer,SR003,Tunde Adeyemi,Loyal,No
+TXN10158,26/09/2024,CUST1177,Blessing Adesanya,Female,37,Adult,North West,Kano,STR06,Kano Branch 2,PRD554,Nivea Deodorant,Health & Beauty,Skincare,5,2200,0.05,11000,Online,SR008,Aisha Mohammed,Online,No
+TXN10159,22/04/2023,CUST1050,Fatima Bello,Female,52,Adult,North Central,Lokoja,STR02,Lokoja Branch 3,PRD173,USB-C Cable,Electronics,Accessories,10,2500,0,25000,Pos,SR008,Aisha Mohammed,Loyal,No
+TXN10160,17/08/2023,CUST1093,Chioma Adeyemi,Female,43,Adult,North West,Kano,STR10,Kano Branch 3,PRD637,Nescafe Classic,Groceries,Beverages,10,3500,0.15,35000,Online,SR006,Ngozi Eze,Walk-In,No
+TXN10161,26/08/2023,CUST1099,Dayo Okafor,N/A,41,Adult,South East,Onitsha,STR01,Onitsha Branch 3,PRD121,Office Heels,Clothing,Footwear,5,12000,0.05,60000,Transfer,SR002,Fatima Bello,Walk-In,No
+TXN10162,17/08/2023,CUST1128,Fatima Adesanya,N/A,18,Youth,South South,Warri,STR02,Warri Branch 3,PRD855,Skirt & Blouse,Clothing,Women's Wear,2,8000,0,16000,Online,SR008,Aisha Mohammed,Corporate,No
+TXN10163,24/10/2024,CUST1161,Ibrahim Okafor,Male,26,Youth,North West,Kano,STR03,Kano Branch 1,PRD337,Beans 2kg,Groceries,Grains,10,3800,0.2,38000,Pos,SR002,Fatima Bello,Loyal,No
+TXN10164,27/04/2024,CUST1159,Aisha Mohammed,Female,29,Youth,North West,Kaduna,STR11,Kaduna Branch 2,PRD411,Ampiclox Capsules,Health & Beauty,Medicines,3,1800,0.1,5400,Card,SR003,Tunde Adeyemi,Walk-In,No
+TXN10165,21/09/2024,CUST1033,Amaka Obi,Female,60,Elder,North West,Sokoto,STR11,Sokoto Branch 3,PRD466,Olay Face Cream,Health & Beauty,Skincare,7,8500,0.05,59500,Transfer,SR002,Fatima Bello,Corporate,No
+TXN10166,27/08/2023,CUST1001,Musa Yakubu,Male,30,Youth,South West,Abeokuta,STR09,Abeokuta Branch 1,PRD411,Ampiclox Capsules,Health & Beauty,Medicines,6,1800,0,10800,Card,SR006,Ngozi Eze,Walk-In,No
+TXN10167,02/11/2024,CUST1123,Bode Obi,Male,53,Adult,North Central,Jos,STR12,Jos Branch 2,PRD550,Digestive Biscuits,Groceries,Snacks,8,1800,0.1,14400,Card,SR006,Ngozi Eze,Walk-In,No
+TXN10168,13/10/2024,CUST1067,Chidi Adesanya,Male,22,Youth,South South,Warri,STR01,Warri Branch 3,PRD355,Calcium 600mg,Health & Beauty,Supplements,5,2800,0.2,14000,Transfer,SR008,Aisha Mohammed,Corporate,No
+TXN10169,03/11/2024,CUST1178,Chioma Nwosu,Female,51,Adult,South South,Benin City,STR01,Benin City Branch 2,PRD248,Peak Milk,Groceries,Beverages,7,1800,0.1,12600,Cash,SR002,Fatima Bello,Walk-In,No
+TXN10170,26/07/2024,CUST1103,Fatima Bello,N/A,47,Adult,North West,Kano,STR07,Kano Branch 3,PRD514,HP Pavilion,Electronics,Laptops,9,285000,0.1,2565000,Pos,SR008,Aisha Mohammed,Corporate,No
+TXN10171,14/12/2023,CUST1017,Dayo Yakubu,Male,34,Youth,South East,Aba,STR04,Aba Branch 3,PRD337,Beans 2kg,Groceries,Grains,9,3800,0,34200,Card,SR006,Ngozi Eze,Walk-In,No
+TXN10172,29/12/2023,CUST1127,Chioma Adeyemi,Female,30,Youth,South South,Port Harcourt,STR05,Port Harcourt Branch 1,PRD391,Gala Sausage Roll,Groceries,Snacks,3,350,0,1050,Online,SR001,Chukwuemeka Obi,Walk-In,No
+TXN10173,16/01/2024,CUST1071,Uche Bello,Male,50,Adult,South East,Enugu,STR03,Enugu Branch 1,PRD189,Office Chair,Home & Kitchen,Furniture,9,38000,0.05,342000,Pos,SR008,Aisha Mohammed,Online,No
+TXN10175,22/07/2024,CUST1002,Ibrahim Adeyemi,Male,48,Adult,South South,Warri,STR11,Warri Branch 3,PRD864,Frying Pan,Home & Kitchen,Cookware,9,4500,0,40500,Cash,SR004,Grace Nwosu,Online,No
+TXN10176,04/09/2023,CUST1088,Bode Eze,N/A,34,Youth,South West,Ibadan,STR11,Ibadan Branch 3,PRD550,Digestive Biscuits,Groceries,Snacks,5,1800,0.15,9000,Online,SR002,Fatima Bello,Corporate,No
+TXN10177,29/05/2023,CUST1020,Kola Mohammed,Male,22,Youth,South South,Warri,STR06,Warri Branch 3,PRD219,Corporate Suit,Clothing,Women's Wear,8,32000,0.1,256000,Online,SR007,Babatunde Okafor,Loyal,No
+TXN10178,05/09/2023,CUST1101,Musa Badmus,Male,28,Youth,South West,Lagos,STR08,Lagos Branch 3,PRD903,MacBook Air,Electronics,Laptops,2,890000,0.05,1780000,Pos,SR004,Grace Nwosu,Loyal,No
+TXN10179,05/10/2023,CUST1121,Adaeze Okafor,Female,38,Adult,South East,Aba,STR09,Aba Branch 2,PRD837,Lipton Tea Box,Groceries,Beverages,10,1200,0.05,12000,Pos,SR006,Ngozi Eze,Corporate,No
+TXN10180,28/03/2024,CUST1194,Musa Adeyemi,Male,UNKNOWN,UNKNOWN,South South,Warri,STR09,Warri Branch 1,PRD554,Nivea Deodorant,Health & Beauty,Skincare,5,2200,0,11000,Card,SR007,Babatunde Okafor,Corporate,No
+TXN10181,23/10/2024,CUST1195,Ibrahim Bello,Male,51,Adult,North West,Sokoto,STR05,Sokoto Branch 3,PRD750,Electric Iron,Home & Kitchen,Appliances,3,8500,0,25500,Online,SR004,Grace Nwosu,Online,No
+TXN10182,07/01/2024,CUST1059,Musa Bello,Male,18,Youth,South West,Lagos,STR04,LAGOS Branch 2,PRD411,Ampiclox Capsules,Health & Beauty,Medicines,1,1800,0,1800,Pos,SR007,Babatunde Okafor,Walk-In,No
+TXN10183,14/09/2023,CUST1197,Ngozi Musa,Female,42,Adult,South East,Enugu,STR01,Enugu Branch 1,PRD231,Multivitamin Pack,Health & Beauty,Supplements,8,6200,0,49600,Cash,SR002,Fatima Bello,Online,No
+TXN10184,23/07/2023,CUST1042,Ibrahim Musa,Male,18,Youth,North Central,Lokoja,STR04,Lokoja Branch 1,PRD128,Screen Protector,Electronics,Accessories,3,1800,0,5400,Transfer,SR001,Chukwuemeka Obi,Walk-In,Yes
+TXN10185,19/12/2024,CUST1193,Chidi Adesanya,Male,59,Adult,North Central,Jos,STR01,Jos Branch 3,PRD554,Nivea Deodorant,Health & Beauty,Skincare,8,2200,0.1,17600,Transfer,SR006,Ngozi Eze,Online,No
+TXN10186,05/09/2024,CUST1138,Adaeze Musa,Female,34,Youth,North Central,Jos,STR11,JOS Branch 3,PRD582,Protein Powder 1kg,Health & Beauty,Supplements,10,18000,0.1,180000,Card,SR004,Grace Nwosu,Walk-In,No
+TXN10187,06/07/2023,CUST1017,Aisha Okonkwo,N/A,60,Elder,South West,Lagos,STR01,Lagos Branch 1,PRD120,Power Bank,Electronics,Accessories,8,12000,0,96000,Cash,SR002,Fatima Bello,Walk-In,No
+TXN10188,23/03/2023,CUST1094,Emeka Eze,Male,44,Adult,South West,Abeokuta,STR01,Abeokuta Branch 3,PRD214,Itel A70,Electronics,Phones,2,42000,0,84000,Cash,SR003,Tunde Adeyemi,Walk-In,Yes
+TXN10189,15/10/2024,CUST1046,Dayo Badmus,Male,28,Youth,North West,Kaduna,STR11,Kaduna Branch 1,PRD864,Frying Pan,Home & Kitchen,Cookware,9,4500,0.2,40500,Card,SR006,Ngozi Eze,Walk-In,No
+TXN10190,08/08/2023,CUST1000,Chioma Eze,Female,43,Adult,South West,Ibadan,STR09,Ibadan Branch 1,PRD338,Chinos Trousers,Clothing,Men's Wear,6,12000,0,72000,Transfer,SR002,Fatima Bello,Walk-In,No
+TXN10191,22/05/2023,CUST1102,Aisha Nwosu,Female,54,Adult,North West,Kano,STR12,Kano Branch 2,PRD355,Calcium 600mg,Health & Beauty,Supplements,2,2800,0.1,5600,Card,SR002,Fatima Bello,Walk-In,Yes
+TXN10192,20/03/2024,CUST1162,Fatima Nwosu,Female,18,Youth,South East,Enugu,STR01,Enugu Branch 2,PRD915,Study Table,Home & Kitchen,Furniture,3,22000,0.05,66000,Pos,SR004,Grace Nwosu,Corporate,No
+TXN10193,06/01/2023,CUST1021,Dayo Yakubu,Male,34,Youth,South East,Aba,STR12,Aba Branch 1,PRD337,Beans 2kg,Groceries,Grains,4,3800,0,15200,Pos,SR005,Ibrahim Musa,Corporate,Yes
+TXN10194,08/12/2024,CUST1152,Seun Mohammed,Male,40,Adult,South West,Ibadan,STR06,Ibadan Branch 3,PRD575,Fair & White Cream,Health & Beauty,Skincare,6,4200,0.15,25200,Cash,SR004,Grace Nwosu,Walk-In,No
+TXN10195,22/10/2023,CUST1053,Tunde Bello,Male,UNKNOWN,UNKNOWN,North West,Kano,STR09,Kano Branch 2,PRD849,Standing Fan,Home & Kitchen,Appliances,7,18000,0,126000,Transfer,SR001,Chukwuemeka Obi,Online,No
+TXN10196,24/09/2024,CUST1092,Emeka Musa,Male,60,Elder,South West,Lagos,STR11,Lagos Branch 2,PRD639,Pringles Can,Groceries,Snacks,6,3200,0,19200,Online,SR001,Chukwuemeka Obi,Walk-In,No
+TXN10197,11/09/2023,CUST1077,Chidi Okafor,Male,58,Adult,South South,Benin City,STR01,Benin City Branch 3,PRD216,Jean Trousers,Clothing,Men's Wear,5,15000,0,75000,Pos,SR007,Babatunde Okafor,Walk-In,No
+TXN10198,08/09/2024,CUST1035,Nneka Eze,N/A,59,Adult,North West,Sokoto,STR04,Sokoto Branch 1,PRD138,T-Shirt 3-Pack,Clothing,Men's Wear,3,6500,0,19500,Pos,SR003,Tunde Adeyemi,Online,No
+TXN10199,23/11/2023,CUST1189,Seun Bello,Male,58,Adult,North Central,Abuja,STR02,Abuja Branch 1,PRD399,Chin Chin 500g,Groceries,Snacks,5,800,0,4000,Cash,SR006,Ngozi Eze,Walk-In,No
+TXN10200,09/11/2024,CUST1041,Kola Adeyemi,Male,26,Youth,South South,Port Harcourt,STR01,PORT HARCOURT Branch 2,PRD575,Fair & White Cream,Health & Beauty,Skincare,2,4200,0.1,8400,Online,SR006,Ngozi Eze,Corporate,No
+TXN10201,02/12/2023,CUST1146,Yetunde Badmus,Female,65,Elder,North West,Sokoto,STR12,Sokoto Branch 1,PRD750,Electric Iron,Home & Kitchen,Appliances,9,8500,0,76500,Card,SR001,Chukwuemeka Obi,Loyal,No
+TXN10202,11/08/2023,CUST1176,Chioma Adeyemi,N/A,21,Youth,North West,Kano,STR11,Kano Branch 2,PRD128,Screen Protector,Electronics,Accessories,3,1800,0,5400,Online,SR004,Grace Nwosu,Corporate,No
+TXN10203,12/09/2024,CUST1115,Chidi Badmus,Male,63,Elder,North Central,Abuja,STR07,Abuja Branch 3,PRD638,Bedside Table,Home & Kitchen,Furniture,1,12000,0.15,12000,Transfer,SR003,Tunde Adeyemi,Loyal,No
+TXN10204,22/02/2023,CUST1051,Chioma Bello,N/A,26,Youth,South West,Abeokuta,STR01,Abeokuta Branch 2,PRD466,Olay Face Cream,Health & Beauty,Skincare,8,8500,0.05,68000,Online,SR002,Fatima Bello,Walk-In,No
+TXN10205,14/07/2024,CUST1089,Bode Nwosu,Male,59,Adult,South West,Lagos,STR11,Lagos Branch 3,PRD849,Standing Fan,Home & Kitchen,Appliances,7,18000,0.15,126000,Transfer,SR008,Aisha Mohammed,Loyal,Yes
+TXN10206,04/06/2023,CUST1016,Fatima Mohammed,N/A,53,Adult,North Central,Jos,STR12,Jos Branch 2,PRD557,Canvas Sneakers,Clothing,Footwear,10,9500,0.1,95000,Pos,SR008,Aisha Mohammed,Loyal,No
+TXN10207,21/11/2023,CUST1133,Nneka Eze,Female,49,Adult,South East,Onitsha,STR10,Onitsha Branch 1,PRD138,T-Shirt 3-Pack,Clothing,Men's Wear,2,6500,0.05,13000,Card,SR001,Chukwuemeka Obi,Online,Yes
+TXN10208,14/10/2024,CUST1076,Ibrahim Badmus,Male,37,Adult,North West,Sokoto,STR01,Sokoto Branch 1,PRD833,Leather Sandals,Clothing,Footwear,3,6500,0.05,19500,Online,SR001,Chukwuemeka Obi,Loyal,No
+TXN10209,10/04/2024,CUST1014,Amaka Eze,Female,65,Elder,North West,Kaduna,STR11,Kaduna Branch 2,PRD901,Bookshelf,Home & Kitchen,Furniture,6,18000,0,108000,Card,SR003,Tunde Adeyemi,Walk-In,Yes
+TXN10210,30/04/2023,CUST1105,Chioma Badmus,Female,35,Youth,South West,Ibadan,STR06,Ibadan Branch 2,PRD236,Traditional Agbada,Clothing,Men's Wear,1,28000,0,28000,Online,SR003,Tunde Adeyemi,Loyal,Yes
+TXN10211,20/06/2024,CUST1033,Musa Musa,N/A,61,Elder,South South,Benin City,STR07,BENIN CITY Branch 3,PRD364,Microwave Oven,Home & Kitchen,Appliances,2,65000,0.2,130000,Pos,SR001,Chukwuemeka Obi,Walk-In,No
+TXN10212,08/03/2023,CUST1030,Chioma Bello,Female,60,Elder,North Central,Abuja,STR02,Abuja Branch 1,PRD901,Bookshelf,Home & Kitchen,Furniture,9,18000,0,162000,Cash,SR003,Tunde Adeyemi,Walk-In,No
+TXN10213,13/12/2023,CUST1098,Chidi Okafor,Male,24,Youth,South West,Lagos,STR03,Lagos Branch 3,PRD638,Bedside Table,Home & Kitchen,Furniture,10,12000,0.2,120000,Pos,SR008,Aisha Mohammed,Walk-In,No
+TXN10214,16/12/2024,CUST1059,Musa Okonkwo,Male,48,Adult,South South,Port Harcourt,STR10,Port Harcourt Branch 2,PRD121,Office Heels,Clothing,Footwear,6,12000,0,72000,Online,SR008,Aisha Mohammed,Loyal,No
+TXN10215,09/10/2024,CUST1142,Fatima Mohammed,Female,38,Adult,South West,Ibadan,STR07,Ibadan Branch 3,PRD554,Nivea Deodorant,Health & Beauty,Skincare,7,2200,0.05,15400,Card,SR006,Ngozi Eze,Walk-In,No
+TXN10216,16/11/2024,CUST1142,Uche Adesanya,Male,38,Adult,South West,Ibadan,STR07,Ibadan Branch 1,PRD864,Frying Pan,Home & Kitchen,Cookware,8,4500,0,36000,Cash,SR003,Tunde Adeyemi,Loyal,No
+TXN10217,26/10/2023,CUST1145,Hauwa Nwosu,Female,37,Adult,North Central,Jos,STR06,Jos Branch 1,PRD638,Bedside Table,Home & Kitchen,Furniture,3,12000,0,36000,Cash,SR006,Ngozi Eze,Walk-In,No
+TXN10218,29/08/2023,CUST1111,Yetunde Okonkwo,Female,42,Adult,North West,Kano,STR08,Kano Branch 1,PRD381,Garri 5kg,Groceries,Grains,3,3200,0,9600,Pos,SR001,Chukwuemeka Obi,Loyal,No
+TXN10219,20/05/2023,CUST1159,Seun Adesanya,Male,45,Adult,South South,Warri,STR09,Warri Branch 2,PRD977,Omega-3 Fish Oil,Health & Beauty,Supplements,10,5500,0,55000,Card,SR006,Ngozi Eze,Walk-In,No
+TXN10220,22/12/2024,CUST1192,Hauwa Badmus,Female,51,Adult,North Central,Jos,STR09,Jos Branch 3,PRD173,USB-C Cable,Electronics,Accessories,9,2500,0,22500,Transfer,SR001,Chukwuemeka Obi,Corporate,No
+TXN10221,25/04/2024,CUST1042,Aisha Eze,N/A,36,Adult,South West,Abeokuta,STR12,Abeokuta Branch 2,PRD915,Study Table,Home & Kitchen,Furniture,10,22000,0.1,220000,Cash,SR005,Ibrahim Musa,Corporate,No
+TXN10222,20/03/2023,CUST1003,Bode Adeyemi,N/A,34,Youth,South West,Abeokuta,STR10,Abeokuta Branch 3,PRD248,Peak Milk,Groceries,Beverages,4,1800,0,7200,Pos,SR003,Tunde Adeyemi,Walk-In,No
+TXN10223,27/02/2024,CUST1088,Hauwa Badmus,Female,64,Elder,South West,Abeokuta,STR02,Abeokuta Branch 1,PRD337,Beans 2kg,Groceries,Grains,4,3800,0,15200,Card,SR001,Chukwuemeka Obi,Online,No
+TXN10224,20/11/2023,CUST1156,Emeka Musa,Male,45,Adult,North Central,Jos,STR02,Jos Branch 2,PRD915,Study Table,Home & Kitchen,Furniture,10,22000,0,220000,Transfer,SR001,Chukwuemeka Obi,Loyal,No
+TXN10225,13/01/2023,CUST1064,Fatima Okonkwo,Female,36,Adult,South South,Port Harcourt,STR02,PORT HARCOURT Branch 1,PRD189,Office Chair,Home & Kitchen,Furniture,2,38000,0.2,76000,Transfer,SR002,Fatima Bello,Loyal,No
+TXN10226,23/04/2024,CUST1197,Dayo Bello,Male,60,Elder,North Central,Jos,STR02,Jos Branch 2,PRD664,Infinix Hot 40,Electronics,Phones,5,75000,0,375000,Card,SR003,Tunde Adeyemi,Loyal,No
+TXN10227,07/07/2024,CUST1026,Nneka Okonkwo,Female,34,Youth,South West,Lagos,STR12,Lagos Branch 2,PRD981,Vitamin C Tablets,Health & Beauty,Medicines,1,1200,0.15,1200,Transfer,SR007,Babatunde Okafor,Walk-In,No
+TXN10228,17/05/2024,CUST1199,Tunde Obi,Male,62,Elder,South East,Enugu,STR06,Enugu Branch 2,PRD833,Leather Sandals,Clothing,Footwear,6,6500,0.05,39000,Pos,SR004,Grace Nwosu,Loyal,No
+TXN10229,11/07/2024,CUST1161,Seun Musa,Male,23,Youth,South East,Aba,STR01,Aba Branch 1,PRD942,Acer Aspire 5,Electronics,Laptops,2,275000,0.2,550000,Online,SR001,Chukwuemeka Obi,Walk-In,Yes
+TXN10230,13/02/2023,CUST1038,Amaka Adesanya,Female,52,Adult,North West,Kano,STR01,Kano Branch 3,PRD639,Pringles Can,Groceries,Snacks,4,3200,0,12800,Pos,SR002,Fatima Bello,Corporate,No
+TXN10231,03/07/2023,CUST1051,Tunde Adesanya,Male,22,Youth,South East,Onitsha,STR12,Onitsha Branch 3,PRD355,Calcium 600mg,Health & Beauty,Supplements,3,2800,0,8400,Transfer,SR006,Ngozi Eze,Walk-In,No
+TXN10232,03/01/2024,CUST1034,Hauwa Adeyemi,N/A,20,Youth,South West,Abeokuta,STR03,Abeokuta Branch 1,PRD575,Fair & White Cream,Health & Beauty,Skincare,2,4200,0.15,8400,Online,SR003,Tunde Adeyemi,Loyal,No
+TXN10233,19/06/2024,CUST1127,Adaeze Yakubu,Female,63,Elder,North West,Kano,STR05,Kano Branch 2,PRD575,Fair & White Cream,Health & Beauty,Skincare,2,4200,0.2,8400,Cash,SR008,Aisha Mohammed,Loyal,No
+TXN10234,18/07/2023,CUST1013,Hauwa Adesanya,Female,20,Youth,North Central,Jos,STR05,Jos Branch 2,PRD849,Standing Fan,Home & Kitchen,Appliances,1,18000,0.05,18000,Pos,SR002,Fatima Bello,Loyal,No
+TXN10235,30/11/2023,CUST1060,Kola Nwosu,Male,24,Youth,South East,Enugu,STR04,Enugu Branch 1,PRD981,Vitamin C Tablets,Health & Beauty,Medicines,4,1200,0,4800,Online,SR004,Grace Nwosu,Loyal,Yes
+TXN10236,27/07/2023,CUST1117,Uche Okafor,Male,47,Adult,South East,Enugu,STR04,Enugu Branch 2,PRD915,Study Table,Home & Kitchen,Furniture,10,22000,0.2,220000,Online,SR004,Grace Nwosu,Walk-In,No
+TXN10237,13/10/2023,CUST1038,Ibrahim Nwosu,Male,55,Adult,North West,Kano,STR01,Kano Branch 1,PRD701,Oral Rehydration Salts,Health & Beauty,Medicines,7,600,0.05,4200,Online,SR004,Grace Nwosu,Walk-In,No
+TXN10238,21/02/2024,CUST1122,Blessing Bello,Female,19,Youth,North Central,Abuja,STR10,Abuja Branch 3,PRD925,Knife Set,Home & Kitchen,Cookware,3,6000,0,18000,Online,SR001,Chukwuemeka Obi,Loyal,No
+TXN10239,12/08/2024,CUST1138,Musa Mohammed,Male,57,Adult,North West,Kano,STR02,Kano Branch 3,PRD121,Office Heels,Clothing,Footwear,1,12000,0,12000,Transfer,SR003,Tunde Adeyemi,Loyal,No
+TXN10240,29/07/2023,CUST1179,Dayo Obi,N/A,55,Adult,South South,Benin City,STR06,Benin City Branch 2,PRD283,Corporate Shirt,Clothing,Men's Wear,6,8500,0,51000,Online,SR005,Ibrahim Musa,Corporate,Yes
+TXN10241,12/10/2024,CUST1073,Ibrahim Adesanya,Male,29,Youth,South West,Lagos,STR02,Lagos Branch 3,PRD639,Pringles Can,Groceries,Snacks,5,3200,0.05,16000,Transfer,SR007,Babatunde Okafor,Corporate,No
+TXN10242,03/06/2023,CUST1167,Aisha Obi,Female,39,Adult,North Central,Jos,STR12,Jos Branch 3,PRD554,Blender,Home & Kitchen,Appliances,3,12000,0,36000,Cash,SR003,Tunde Adeyemi,Online,No
+TXN10243,20/06/2023,CUST1177,Amaka Bello,Female,63,Elder,South South,Port Harcourt,STR01,Port Harcourt Branch 2,PRD750,Electric Iron,Home & Kitchen,Appliances,9,8500,0,76500,Transfer,SR008,Aisha Mohammed,Walk-In,No
+TXN10244,05/05/2023,CUST1001,Dayo Adeyemi,Male,27,Youth,North West,Sokoto,STR12,Sokoto Branch 2,PRD231,Multivitamin Pack,Health & Beauty,Supplements,10,6200,0,62000,Online,SR001,Chukwuemeka Obi,Loyal,No
+TXN10245,16/02/2024,CUST1164,Hauwa Eze,Female,UNKNOWN,UNKNOWN,South South,Benin City,STR05,Benin City Branch 1,PRD514,HP Pavilion,Electronics,Laptops,9,285000,0.1,2565000,Cash,SR006,Ngozi Eze,Corporate,No
+TXN10246,13/03/2024,CUST1143,Emeka Bello,N/A,46,Adult,South West,Lagos,STR08,Lagos Branch 3,PRD673,Iron Tablets,Health & Beauty,Supplements,7,1500,0,10500,Pos,SR008,Aisha Mohammed,Walk-In,Yes
+TXN10247,27/08/2024,CUST1142,Emeka Mohammed,Male,29,Youth,South East,Aba,STR03,Aba Branch 1,PRD278,Rice 5kg,Groceries,Grains,5,4500,0.05,22500,Cash,SR001,Chukwuemeka Obi,Walk-In,No
+TXN10248,17/10/2024,CUST1125,Tunde Okonkwo,Male,29,Youth,South South,Port Harcourt,STR05,Port Harcourt Branch 2,PRD903,MacBook Air,Electronics,Laptops,7,890000,0.15,6230000,Pos,SR006,Ngozi Eze,Walk-In,No
+TXN10249,16/06/2023,CUST1013,Blessing Adesanya,Female,28,Youth,North Central,Jos,STR06,Jos Branch 1,PRD216,Jean Trousers,Clothing,Men's Wear,4,15000,0.2,60000,Transfer,SR006,Ngozi Eze,Online,No
+TXN10250,15/12/2024,CUST1132,Bode Yakubu,Male,26,Youth,North Central,Jos,STR07,Jos Branch 2,PRD637,Nescafe Classic,Groceries,Beverages,9,3500,0.1,31500,Pos,SR007,Babatunde Okafor,Corporate,No
+TXN10251,15/05/2023,CUST1152,Kola Bello,Male,46,Adult,North West,Kaduna,STR05,Kaduna Branch 1,PRD831,Tecno Spark 20,Electronics,Phones,5,85000,0,425000,Pos,SR002,Fatima Bello,Walk-In,No
+TXN10252,13/02/2023,CUST1011,Bode Yakubu,Male,34,Youth,South West,Ibadan,STR02,Ibadan Branch 1,PRD554,Blender,Home & Kitchen,Appliances,1,12000,0.1,12000,Transfer,SR006,Ngozi Eze,Loyal,No
+TXN10253,03/11/2023,CUST1043,Ngozi Obi,Female,36,Adult,North West,Kano,STR02,Kano Branch 1,PRD721,Wardrobe (2-door),Home & Kitchen,Furniture,3,95000,0,285000,Card,SR007,Babatunde Okafor,Loyal,No
+TXN10254,18/11/2023,CUST1142,Bode Adeyemi,Male,36,Adult,South West,Lagos,STR02,Lagos Branch 2,PRD424,Loafers,Clothing,Footwear,4,14000,0,56000,Pos,SR008,Aisha Mohammed,Loyal,Yes
+TXN10255,21/11/2024,CUST1036,Seun Adesanya,Male,25,Youth,South East,Onitsha,STR02,Onitsha Branch 3,PRD248,Peak Milk,Groceries,Beverages,4,1800,0.2,7200,Card,SR008,Aisha Mohammed,Online,No
+TXN10256,21/10/2024,CUST1130,Blessing Okonkwo,N/A,49,Adult,North Central,Abuja,STR02,Abuja Branch 1,PRD283,Corporate Shirt,Clothing,Men's Wear,2,8500,0,17000,Transfer,SR007,Babatunde Okafor,Walk-In,Yes
+TXN10257,28/09/2024,CUST1051,Fatima Okonkwo,Female,47,Adult,North Central,Lokoja,STR09,Lokoja Branch 2,PRD189,Office Chair,Home & Kitchen,Furniture,1,38000,0.05,38000,Transfer,SR007,Babatunde Okafor,Corporate,No
+TXN10259,28/12/2023,CUST1093,Ngozi Okafor,N/A,UNKNOWN,UNKNOWN,North Central,Lokoja,STR11,Lokoja Branch 2,PRD527,Zinc Supplement,Health & Beauty,Medicines,7,2500,0.15,17500,Pos,SR002,Fatima Bello,Loyal,No
+TXN10260,28/04/2023,CUST1145,Bode Eze,Male,45,Adult,North West,Kaduna,STR12,Kaduna Branch 2,PRD925,Knife Set,Home & Kitchen,Cookware,10,6000,0,60000,Cash,SR006,Ngozi Eze,Corporate,Yes
+TXN10261,11/03/2023,CUST1137,Ibrahim Adesanya,Male,22,Youth,South South,Warri,STR05,Warri Branch 3,PRD466,Olay Face Cream,Health & Beauty,Skincare,2,8500,0.1,17000,Online,SR007,Babatunde Okafor,Loyal,Yes
+TXN10262,29/10/2024,CUST1102,Chioma Mohammed,Female,44,Adult,North Central,Lokoja,STR11,Lokoja Branch 3,PRD550,Digestive Biscuits,Groceries,Snacks,10,1800,0.05,18000,Pos,SR007,Babatunde Okafor,Walk-In,No
+TXN10263,01/09/2024,CUST1105,Adaeze Badmus,Female,45,Adult,North Central,Abuja,STR07,Abuja Branch 2,PRD557,Canvas Sneakers,Clothing,Footwear,7,9500,0,66500,Pos,SR008,Aisha Mohammed,Corporate,Yes
+TXN10264,02/07/2023,CUST1140,Musa Okafor,N/A,60,Elder,South South,Benin City,STR12,Benin City Branch 2,PRD664,Infinix Hot 40,Electronics,Phones,10,75000,0,750000,Pos,SR007,Babatunde Okafor,Loyal,No
+TXN10265,08/07/2024,CUST1064,Bode Okonkwo,Male,51,Adult,South East,Enugu,STR02,Enugu Branch 2,PRD557,Canvas Sneakers,Clothing,Footwear,7,9500,0,66500,Online,SR007,Babatunde Okafor,Online,No
+TXN10266,19/01/2024,CUST1200,Kola Obi,Male,35,Youth,South South,Warri,STR06,Warri Branch 2,PRD215,Samsung Galaxy A54,Electronics,Phones,4,210000,0.15,840000,Transfer,SR002,Fatima Bello,Walk-In,No
+TXN10267,02/02/2024,CUST1076,Musa Bello,Male,33,Youth,South South,Port Harcourt,STR11,Port Harcourt Branch 2,PRD554,Nivea Deodorant,Health & Beauty,Skincare,8,2200,0.05,17600,Pos,SR003,Tunde Adeyemi,Loyal,No
+TXN10268,27/12/2023,CUST1164,Bode Badmus,Male,21,Youth,South South,Benin City,STR11,Benin City Branch 1,PRD903,MacBook Air,Electronics,Laptops,2,890000,0.2,1780000,Transfer,SR007,Babatunde Okafor,Online,No
+TXN10269,17/05/2023,CUST1094,Uche Eze,Male,44,Adult,South South,Warri,STR10,Warri Branch 1,PRD128,Screen Protector,Electronics,Accessories,4,1800,0.15,7200,Transfer,SR001,Chukwuemeka Obi,Corporate,Yes
+TXN10270,06/02/2023,CUST1197,Kola Yakubu,N/A,45,Adult,South East,Aba,STR04,Aba Branch 3,PRD131,Golden Penny Pasta,Groceries,Grains,8,1500,0,12000,Pos,SR004,Grace Nwosu,Corporate,No
+TXN10271,30/05/2023,CUST1175,Dayo Yakubu,N/A,55,Adult,South East,Enugu,STR03,ENUGU Branch 2,PRD673,Iron Tablets,Health & Beauty,Supplements,10,1500,0,15000,Transfer,SR004,Grace Nwosu,Corporate,Yes
+TXN10272,17/11/2024,CUST1101,Ngozi Okafor,Female,37,Adult,North Central,Abuja,STR09,Abuja Branch 1,PRD864,Frying Pan,Home & Kitchen,Cookware,8,4500,0,36000,Pos,SR002,Fatima Bello,Online,No
+TXN10273,26/05/2024,CUST1156,Chioma Badmus,Female,34,Youth,North Central,Lokoja,STR03,Lokoja Branch 2,PRD673,Iron Tablets,Health & Beauty,Supplements,1,1500,0.05,1500,Pos,SR003,Tunde Adeyemi,Loyal,No
+TXN10274,21/05/2024,CUST1037,Hauwa Adesanya,N/A,64,Elder,South West,Ibadan,STR05,Ibadan Branch 1,PRD399,Chin Chin 500g,Groceries,Snacks,4,800,0.1,3200,Transfer,SR007,Babatunde Okafor,Walk-In,No
+TXN10275,24/11/2024,CUST1095,Emeka Bello,N/A,43,Adult,North West,Kano,STR03,Kano Branch 1,PRD942,Acer Aspire 5,Electronics,Laptops,5,275000,0.15,1375000,Online,SR006,Ngozi Eze,Loyal,No
+TXN10276,19/02/2023,CUST1097,Ngozi Okafor,N/A,56,Adult,South West,Ibadan,STR04,Ibadan Branch 2,PRD831,Tecno Spark 20,Electronics,Phones,7,85000,0.15,595000,Transfer,SR002,Fatima Bello,Online,No
+TXN10277,14/11/2023,CUST1051,Adaeze Eze,Female,50,Adult,South East,Onitsha,STR08,Onitsha Branch 2,PRD864,Frying Pan,Home & Kitchen,Cookware,10,4500,0.1,45000,Transfer,SR008,Aisha Mohammed,Loyal,No
+TXN10278,31/12/2024,CUST1111,Bode Okonkwo,Male,47,Adult,South West,Ibadan,STR03,Ibadan Branch 3,PRD855,Skirt & Blouse,Clothing,Women's Wear,1,8000,0.1,8000,Card,SR007,Babatunde Okafor,Walk-In,No
+TXN10279,08/05/2024,CUST1189,Bode Yakubu,N/A,25,Youth,South East,Enugu,STR07,Enugu Branch 1,PRD903,MacBook Air,Electronics,Laptops,8,890000,0,7120000,Transfer,SR004,Grace Nwosu,Loyal,No
+TXN10280,09/10/2024,CUST1029,Tunde Mohammed,Male,UNKNOWN,UNKNOWN,South West,Lagos,STR08,Lagos Branch 3,PRD673,Iron Tablets,Health & Beauty,Supplements,5,1500,0.15,7500,Card,SR005,Ibrahim Musa,Walk-In,No
+TXN10281,15/07/2023,CUST1061,Ibrahim Okafor,Male,59,Adult,South East,Aba,STR09,Aba Branch 1,PRD942,Acer Aspire 5,Electronics,Laptops,1,275000,0.05,275000,Online,SR008,Aisha Mohammed,Walk-In,No
+TXN10282,26/07/2023,CUST1110,Yetunde Okafor,Female,63,Elder,South East,Onitsha,STR10,Onitsha Branch 3,PRD925,Knife Set,Home & Kitchen,Cookware,9,6000,0.2,54000,Online,SR004,Grace Nwosu,Loyal,No
+TXN10283,03/08/2024,CUST1029,Fatima Bello,Female,48,Adult,South East,Aba,STR06,Aba Branch 2,PRD981,Vitamin C Tablets,Health & Beauty,Medicines,8,1200,0.15,9600,Transfer,SR008,Aisha Mohammed,Loyal,No
+TXN10284,04/02/2024,CUST1053,Blessing Adesanya,Female,57,Adult,North Central,Lokoja,STR11,Lokoja Branch 2,PRD278,Rice 5kg,Groceries,Grains,7,4500,0.1,31500,Cash,SR001,Chukwuemeka Obi,Online,No
+TXN10285,06/12/2023,CUST1158,Amaka Okafor,Female,25,Youth,South South,Port Harcourt,STR08,Port Harcourt Branch 2,PRD121,Office Heels,Clothing,Footwear,3,12000,0,36000,Cash,SR008,Aisha Mohammed,Corporate,No
+TXN10286,17/09/2024,CUST1030,Fatima Obi,Female,58,Adult,South South,Warri,STR05,Warri Branch 3,PRD575,Fair & White Cream,Health & Beauty,Skincare,6,4200,0.05,25200,Card,SR001,Chukwuemeka Obi,Loyal,No
+TXN10287,06/01/2024,CUST1062,Fatima Badmus,N/A,60,Elder,South South,Benin City,STR04,Benin City Branch 1,PRD701,Oral Rehydration Salts,Health & Beauty,Medicines,6,600,0.15,3600,Pos,SR002,Fatima Bello,Online,Yes
+TXN10288,18/06/2023,CUST1014,Emeka Okonkwo,Male,54,Adult,North West,Kaduna,STR11,Kaduna Branch 3,PRD864,Frying Pan,Home & Kitchen,Cookware,1,4500,0,4500,Card,SR008,Aisha Mohammed,Loyal,No
+TXN10289,10/01/2024,CUST1103,Dayo Badmus,Male,59,Adult,South South,Warri,STR09,Warri Branch 2,PRD466,Olay Face Cream,Health & Beauty,Skincare,9,8500,0.1,76500,Transfer,SR003,Tunde Adeyemi,Walk-In,No
+TXN10290,07/06/2024,CUST1015,Chioma Badmus,Female,64,Elder,North Central,Jos,STR06,Jos Branch 1,PRD819,Lenovo IdeaPad,Electronics,Laptops,10,295000,0.2,2950000,Cash,SR006,Ngozi Eze,Online,No
+TXN10291,08/09/2024,CUST1149,Seun Obi,Male,51,Adult,South South,Warri,STR03,Warri Branch 3,PRD554,Nivea Deodorant,Health & Beauty,Skincare,3,2200,0.1,6600,Card,SR007,Babatunde Okafor,Online,No
+TXN10292,26/03/2024,CUST1117,Seun Adeyemi,Male,63,Elder,South South,Benin City,STR09,Benin City Branch 1,PRD837,Lipton Tea Box,Groceries,Beverages,6,1200,0,7200,Pos,SR006,Ngozi Eze,Walk-In,No
+TXN10293,06/06/2023,CUST1036,Fatima Bello,N/A,UNKNOWN,UNKNOWN,South South,Benin City,STR05,Benin City Branch 2,PRD461,Milo 400g,Groceries,Beverages,9,2200,0.1,19800,Pos,SR008,Aisha Mohammed,Online,Yes
+TXN10294,09/12/2024,CUST1038,Amaka Okonkwo,Female,46,Adult,North Central,Abuja,STR11,Abuja Branch 3,PRD701,Oral Rehydration Salts,Health & Beauty,Medicines,1,600,0.15,600,Pos,SR003,Tunde Adeyemi,Loyal,No
+TXN10295,25/12/2024,CUST1138,Tunde Okonkwo,Male,57,Adult,North West,Kano,STR09,Kano Branch 1,PRD355,Calcium 600mg,Health & Beauty,Supplements,3,2800,0.2,8400,Online,SR002,Fatima Bello,Walk-In,Yes
+TXN10296,16/02/2023,CUST1135,Kola Mohammed,Male,UNKNOWN,UNKNOWN,North Central,Jos,STR02,Jos Branch 1,PRD356,Non-stick Pot Set,Home & Kitchen,Cookware,3,9500,0.1,28500,Transfer,SR003,Tunde Adeyemi,Walk-In,No
+TXN10297,04/12/2023,CUST1013,Kola Bello,Male,25,Youth,South South,Port Harcourt,STR10,Port Harcourt Branch 1,PRD148,Dove Soap 6-Pack,Health & Beauty,Skincare,1,3500,0,3500,Cash,SR007,Babatunde Okafor,Loyal,No
+TXN10298,20/01/2023,CUST1077,Fatima Nwosu,Female,26,Youth,North West,Kaduna,STR11,Kaduna Branch 3,PRD550,Digestive Biscuits,Groceries,Snacks,4,1800,0.05,7200,Cash,SR001,Chukwuemeka Obi,Corporate,No
+TXN10299,21/06/2023,CUST1161,Musa Yakubu,Male,40,Adult,South South,Benin City,STR05,Benin City Branch 1,PRD278,Rice 5kg,Groceries,Grains,7,4500,0,31500,Card,SR004,Grace Nwosu,Walk-In,Yes
+TXN10300,17/12/2023,CUST1053,Hauwa Bello,Female,39,Adult,South East,Aba,STR12,Aba Branch 1,PRD831,Tecno Spark 20,Electronics,Phones,7,85000,0.05,595000,Pos,SR002,Fatima Bello,Walk-In,No
+TXN10301,18/11/2024,CUST1196,Kola Mohammed,Male,29,Youth,South West,Lagos,STR04,Lagos Branch 2,PRD819,Lenovo IdeaPad,Electronics,Laptops,4,295000,0.15,1180000,Cash,SR004,Grace Nwosu,Corporate,Yes
+TXN10303,12/10/2024,CUST1164,Chioma Okonkwo,Female,45,Adult,South West,Ibadan,STR07,Ibadan Branch 2,PRD903,MacBook Air,Electronics,Laptops,1,890000,0.05,890000,Online,SR006,Ngozi Eze,Walk-In,Yes
+TXN10304,25/03/2023,CUST1063,Ngozi Badmus,Female,22,Youth,South South,Port Harcourt,STR02,Port Harcourt Branch 3,PRD514,HP Pavilion,Electronics,Laptops,10,285000,0,2850000,Pos,SR008,Aisha Mohammed,Loyal,Yes
+TXN10305,12/08/2023,CUST1114,Fatima Yakubu,Female,58,Adult,North West,Kano,STR01,Kano Branch 1,PRD575,Fair & White Cream,Health & Beauty,Skincare,1,4200,0.15,4200,Card,SR002,Fatima Bello,Walk-In,No
+TXN10306,29/10/2023,CUST1168,Tunde Yakubu,Male,56,Adult,North West,Kano,STR08,Kano Branch 2,PRD189,Office Chair,Home & Kitchen,Furniture,8,38000,0,304000,Pos,SR004,Grace Nwosu,Walk-In,No
+TXN10307,20/09/2023,CUST1015,Uche Adesanya,Male,20,Youth,South South,Warri,STR09,Warri Branch 3,PRD338,Chinos Trousers,Clothing,Men's Wear,8,12000,0,96000,Transfer,SR001,Chukwuemeka Obi,Loyal,No
+TXN10308,20/07/2023,CUST1177,Ibrahim Musa,Male,62,Elder,South East,Aba,STR10,Aba Branch 3,PRD283,Corporate Shirt,Clothing,Men's Wear,8,8500,0,68000,Cash,SR004,Grace Nwosu,Corporate,No
+TXN10309,12/06/2023,CUST1002,Ibrahim Mohammed,Male,41,Adult,South West,Ibadan,STR02,IBADAN Branch 1,PRD385,Ankara Dress,Clothing,Women's Wear,1,9500,0,9500,Transfer,SR006,Ngozi Eze,Walk-In,No
+TXN10310,23/01/2023,CUST1028,Ibrahim Okafor,N/A,59,Adult,North Central,Abuja,STR04,Abuja Branch 2,PRD424,Loafers,Clothing,Footwear,2,14000,0,28000,Cash,SR007,Babatunde Okafor,Loyal,Yes
+TXN10311,15/03/2024,CUST1038,Ngozi Yakubu,Female,36,Adult,North Central,Abuja,STR05,ABUJA Branch 1,PRD849,Standing Fan,Home & Kitchen,Appliances,8,18000,0.05,144000,Transfer,SR008,Aisha Mohammed,Walk-In,No
+TXN10312,30/12/2024,CUST1102,Dayo Badmus,Male,55,Adult,North West,Sokoto,STR04,SOKOTO Branch 1,PRD411,Ampiclox Capsules,Health & Beauty,Medicines,7,1800,0.1,12600,Pos,SR003,Tunde Adeyemi,Walk-In,No
+TXN10313,27/12/2023,CUST1110,Dayo Obi,Male,47,Adult,South East,Onitsha,STR06,Onitsha Branch 2,PRD981,Vitamin C Tablets,Health & Beauty,Medicines,5,1200,0.2,6000,Pos,SR005,Ibrahim Musa,Loyal,No
+TXN10314,01/04/2024,CUST1196,Blessing Nwosu,Female,65,Elder,North Central,Abuja,STR03,Abuja Branch 3,PRD864,Frying Pan,Home & Kitchen,Cookware,6,4500,0.1,27000,Cash,SR008,Aisha Mohammed,Loyal,No
+TXN10315,22/08/2023,CUST1193,Ibrahim Adesanya,Male,53,Adult,South East,Aba,STR06,Aba Branch 1,PRD424,Loafers,Clothing,Footwear,4,14000,0,56000,Transfer,SR003,Tunde Adeyemi,Online,No
+TXN10316,11/05/2024,CUST1137,Dayo Mohammed,N/A,62,Elder,North Central,Jos,STR10,Jos Branch 1,PRD337,Beans 2kg,Groceries,Grains,10,3800,0.05,38000,Cash,SR007,Babatunde Okafor,Walk-In,Yes
+TXN10317,22/04/2023,CUST1008,Musa Musa,Male,29,Youth,North West,Kaduna,STR04,KADUNA Branch 1,PRD355,Calcium 600mg,Health & Beauty,Supplements,2,2800,0,5600,Transfer,SR007,Babatunde Okafor,Corporate,No
+TXN10318,13/05/2023,CUST1052,Tunde Mohammed,Male,26,Youth,North Central,Jos,STR11,Jos Branch 2,PRD550,Digestive Biscuits,Groceries,Snacks,9,1800,0,16200,Online,SR002,Fatima Bello,Corporate,No
+TXN10319,05/08/2024,CUST1116,Dayo Yakubu,Male,59,Adult,North Central,Lokoja,STR05,Lokoja Branch 2,PRD114,Pressure Cooker,Home & Kitchen,Cookware,3,16000,0.15,48000,Transfer,SR002,Fatima Bello,Corporate,No
+TXN10320,06/11/2023,CUST1185,Bode Bello,Male,UNKNOWN,UNKNOWN,South South,Warri,STR09,Warri Branch 1,PRD216,Jean Trousers,Clothing,Men's Wear,6,15000,0,90000,Online,SR001,Chukwuemeka Obi,Walk-In,No
+TXN10321,13/02/2024,CUST1083,Emeka Okafor,Male,26,Youth,South East,Onitsha,STR02,Onitsha Branch 3,PRD131,Golden Penny Pasta,Groceries,Grains,3,1500,0,4500,Pos,SR007,Babatunde Okafor,Loyal,No
+TXN10322,01/12/2023,CUST1136,Hauwa Eze,Female,61,Elder,South South,Warri,STR11,Warri Branch 3,PRD214,Itel A70,Electronics,Phones,1,42000,0,42000,Transfer,SR004,Grace Nwosu,Loyal,No
+TXN10324,13/01/2023,CUST1094,Ibrahim Musa,Male,57,Adult,South West,Lagos,STR07,Lagos Branch 2,PRD721,Wardrobe (2-door),Home & Kitchen,Furniture,10,95000,0.15,950000,Card,SR003,Tunde Adeyemi,Online,No
+TXN10325,12/05/2024,CUST1114,Hauwa Musa,Female,55,Adult,South East,Aba,STR04,Aba Branch 3,PRD364,Microwave Oven,Home & Kitchen,Appliances,2,65000,0.1,130000,Pos,SR001,Chukwuemeka Obi,Loyal,Yes
+TXN10326,26/07/2023,CUST1189,Ngozi Nwosu,Female,46,Adult,North Central,Abuja,STR11,Abuja Branch 1,PRD356,Non-stick Pot Set,Home & Kitchen,Cookware,4,9500,0.1,38000,Cash,SR004,Grace Nwosu,Loyal,No
+TXN10327,26/01/2024,CUST1049,Hauwa Okonkwo,Female,22,Youth,South West,Abeokuta,STR04,Abeokuta Branch 1,PRD831,Tecno Spark 20,Electronics,Phones,9,85000,0.15,765000,Cash,SR004,Grace Nwosu,Corporate,No
+TXN10328,11/07/2023,CUST1101,Ibrahim Bello,Male,41,Adult,South East,Enugu,STR07,Enugu Branch 3,PRD356,Non-stick Pot Set,Home & Kitchen,Cookware,7,9500,0,66500,Transfer,SR003,Tunde Adeyemi,Online,Yes
+TXN10329,04/09/2024,CUST1050,Nneka Adesanya,Female,48,Adult,South South,Port Harcourt,STR09,PORT HARCOURT Branch 3,PRD219,Corporate Suit,Clothing,Women's Wear,7,32000,0.05,224000,Cash,SR002,Fatima Bello,Corporate,No
+TXN10330,22/03/2024,CUST1178,Blessing Obi,Female,41,Adult,South West,Abeokuta,STR07,Abeokuta Branch 3,PRD278,Rice 5kg,Groceries,Grains,3,4500,0,13500,Cash,SR003,Tunde Adeyemi,Walk-In,No
+TXN10331,21/10/2024,CUST1048,Seun Badmus,Male,51,Adult,South East,Enugu,STR05,Enugu Branch 3,PRD855,Skirt & Blouse,Clothing,Women's Wear,5,8000,0.2,40000,Pos,SR002,Fatima Bello,Loyal,Yes
+TXN10332,10/03/2023,CUST1000,Seun Badmus,Male,49,Adult,South West,Lagos,STR07,Lagos Branch 3,PRD575,Fair & White Cream,Health & Beauty,Skincare,6,4200,0.1,25200,Pos,SR008,Aisha Mohammed,Walk-In,No
+TXN10333,03/02/2023,CUST1160,Aisha Bello,Female,46,Adult,North West,Kano,STR03,Kano Branch 1,PRD236,Traditional Agbada,Clothing,Men's Wear,2,28000,0.15,56000,Pos,SR001,Chukwuemeka Obi,Walk-In,No
+TXN10334,01/08/2023,CUST1154,Ngozi Musa,Female,42,Adult,North West,Kaduna,STR08,Kaduna Branch 2,PRD864,Frying Pan,Home & Kitchen,Cookware,4,4500,0,18000,Transfer,SR006,Ngozi Eze,Walk-In,No
+TXN10335,16/12/2024,CUST1179,Adaeze Okafor,Female,35,Youth,South South,Warri,STR11,Warri Branch 3,PRD148,Dove Soap 6-Pack,Health & Beauty,Skincare,1,3500,0.15,3500,Transfer,SR008,Aisha Mohammed,Loyal,No
+TXN10336,19/09/2024,CUST1187,Aisha Adesanya,N/A,24,Youth,South East,Onitsha,STR12,Onitsha Branch 1,PRD721,Wardrobe (2-door),Home & Kitchen,Furniture,1,95000,0.15,95000,Online,SR003,Tunde Adeyemi,Corporate,No
+TXN10337,07/07/2024,CUST1007,Adaeze Okonkwo,Female,63,Elder,South South,Warri,STR05,Warri Branch 1,PRD833,Leather Sandals,Clothing,Footwear,3,6500,0.2,19500,Transfer,SR004,Grace Nwosu,Walk-In,No
+TXN10338,22/01/2024,CUST1059,Seun Okonkwo,Male,45,Adult,South South,Warri,STR02,Warri Branch 1,PRD215,Samsung Galaxy A54,Electronics,Phones,10,210000,0.1,2100000,Cash,SR005,Ibrahim Musa,Walk-In,No
+TXN10339,03/09/2024,CUST1101,Musa Obi,N/A,24,Youth,South West,Abeokuta,STR06,Abeokuta Branch 1,PRD630,Blouse Set,Clothing,Women's Wear,10,7000,0.2,70000,Cash,SR006,Ngozi Eze,Online,No
+TXN10340,24/12/2024,CUST1085,Ibrahim Adesanya,Male,21,Youth,South South,Benin City,STR12,Benin City Branch 1,PRD942,Acer Aspire 5,Electronics,Laptops,5,275000,0,1375000,Card,SR006,Ngozi Eze,Corporate,No
+TXN10341,02/05/2024,CUST1100,Chioma Bello,Female,53,Adult,South West,Lagos,STR10,Lagos Branch 1,PRD138,T-Shirt 3-Pack,Clothing,Men's Wear,8,6500,0.15,52000,Cash,SR001,Chukwuemeka Obi,Online,No
+TXN10342,06/01/2023,CUST1013,Chidi Okafor,Male,29,Youth,South West,Abeokuta,STR10,Abeokuta Branch 2,PRD461,Milo 400g,Groceries,Beverages,4,2200,0,8800,Card,SR002,Fatima Bello,Corporate,Yes
+TXN10343,30/10/2024,CUST1130,Tunde Musa,Male,60,Elder,South South,Port Harcourt,STR10,Port Harcourt Branch 2,PRD557,Canvas Sneakers,Clothing,Footwear,7,9500,0.1,66500,Transfer,SR002,Fatima Bello,Online,No
+TXN10344,07/04/2024,CUST1125,Ngozi Mohammed,Female,51,Adult,South West,Abeokuta,STR09,Abeokuta Branch 3,PRD173,USB-C Cable,Electronics,Accessories,3,2500,0,7500,Online,SR006,Ngozi Eze,Walk-In,No
+TXN10345,31/07/2023,CUST1031,Bode Bello,Male,UNKNOWN,UNKNOWN,North West,Kaduna,STR09,Kaduna Branch 1,PRD148,Dove Soap 6-Pack,Health & Beauty,Skincare,1,3500,0.15,3500,Online,SR003,Tunde Adeyemi,Walk-In,No
+TXN10346,19/06/2024,CUST1011,Nneka Obi,N/A,60,Elder,South South,Port Harcourt,STR05,Port Harcourt Branch 1,PRD131,Golden Penny Pasta,Groceries,Grains,3,1500,0,4500,Card,SR003,Tunde Adeyemi,Corporate,No
+TXN10347,18/09/2023,CUST1162,Chidi Obi,Male,35,Youth,South South,Benin City,STR11,Benin City Branch 3,PRD554,Blender,Home & Kitchen,Appliances,7,12000,0,84000,Pos,SR002,Fatima Bello,Loyal,Yes
+TXN10348,17/10/2024,CUST1025,Bode Adeyemi,N/A,18,Youth,South East,Enugu,STR02,Enugu Branch 1,PRD872,Dankwa Groundnut,Groceries,Snacks,2,500,0.1,1000,Pos,SR002,Fatima Bello,Walk-In,No
+TXN10349,02/03/2024,CUST1151,Amaka Obi,Female,48,Adult,South South,Warri,STR09,WARRI Branch 3,PRD391,Gala Sausage Roll,Groceries,Snacks,1,350,0.2,350,Cash,SR007,Babatunde Okafor,Loyal,No
+TXN10350,29/12/2023,CUST1058,Chioma Bello,Female,63,Elder,North Central,Lokoja,STR05,Lokoja Branch 2,PRD338,Chinos Trousers,Clothing,Men's Wear,2,12000,0.1,24000,Online,SR001,Chukwuemeka Obi,Corporate,No
+TXN10351,06/11/2024,CUST1048,Bode Badmus,Male,UNKNOWN,UNKNOWN,South West,Abeokuta,STR09,Abeokuta Branch 3,PRD731,Sports Shoes,Clothing,Footwear,1,18000,0.2,18000,Cash,SR003,Tunde Adeyemi,Walk-In,Yes
+TXN10352,06/10/2024,CUST1086,Seun Adesanya,Male,25,Youth,South South,Benin City,STR02,Benin City Branch 2,PRD216,Jean Trousers,Clothing,Men's Wear,7,15000,0.15,105000,Cash,SR008,Aisha Mohammed,Walk-In,No
+TXN10353,01/07/2023,CUST1047,Uche Eze,N/A,64,Elder,South East,Onitsha,STR07,ONITSHA Branch 2,PRD550,Digestive Biscuits,Groceries,Snacks,7,1800,0.15,12600,Pos,SR004,Grace Nwosu,Corporate,Yes
+TXN10354,01/09/2024,CUST1041,Amaka Bello,Female,46,Adult,South South,Warri,STR01,Warri Branch 2,PRD979,Coca-Cola 50cl,Groceries,Beverages,7,400,0,2800,Online,SR005,Ibrahim Musa,Walk-In,Yes
+TXN10355,22/05/2024,CUST1128,Chidi Eze,Male,43,Adult,South East,Enugu,STR02,Enugu Branch 1,PRD550,Digestive Biscuits,Groceries,Snacks,1,1800,0.15,1800,Cash,SR007,Babatunde Okafor,Corporate,No
+TXN10356,26/03/2023,CUST1196,Nneka Adeyemi,Female,35,Youth,South West,Ibadan,STR04,Ibadan Branch 3,PRD466,Olay Face Cream,Health & Beauty,Skincare,10,8500,0.15,85000,Transfer,SR004,Grace Nwosu,Walk-In,No
+TXN10357,08/10/2023,CUST1097,Yetunde Okafor,Female,21,Youth,South East,Aba,STR11,Aba Branch 1,PRD872,Dankwa Groundnut,Groceries,Snacks,1,500,0,500,Card,SR004,Grace Nwosu,Online,No
+TXN10358,01/01/2023,CUST1025,Kola Nwosu,Male,56,Adult,South East,Enugu,STR08,Enugu Branch 2,PRD216,Jean Trousers,Clothing,Men's Wear,3,15000,0.2,45000,Transfer,SR004,Grace Nwosu,Loyal,No
+TXN10359,29/01/2024,CUST1167,Chidi Okonkwo,Male,55,Adult,South South,Port Harcourt,STR02,Port Harcourt Branch 1,PRD114,Pressure Cooker,Home & Kitchen,Cookware,9,16000,0.1,144000,Pos,SR006,Ngozi Eze,Online,No
+TXN10360,01/05/2023,CUST1042,Dayo Mohammed,Male,19,Youth,North West,Kaduna,STR03,Kaduna Branch 2,PRD958,Wireless Earbuds,Electronics,Accessories,7,18000,0,126000,Transfer,SR008,Aisha Mohammed,Walk-In,Yes
+TXN10361,02/04/2024,CUST1178,Seun Adeyemi,N/A,55,Adult,South West,Abeokuta,STR12,Abeokuta Branch 3,PRD864,Frying Pan,Home & Kitchen,Cookware,9,4500,0,40500,Cash,SR003,Tunde Adeyemi,Online,No
+TXN10362,22/02/2023,CUST1154,Aisha Obi,Female,58,Adult,North Central,Jos,STR12,Jos Branch 3,PRD121,Office Heels,Clothing,Footwear,6,12000,0,72000,Transfer,SR004,Grace Nwosu,Loyal,No
+TXN10363,17/01/2023,CUST1065,Nneka Musa,Female,59,Adult,North West,Sokoto,STR08,Sokoto Branch 1,PRD630,Blouse Set,Clothing,Women's Wear,8,7000,0.05,56000,Pos,SR008,Aisha Mohammed,Loyal,No
+TXN10364,30/06/2023,CUST1100,Chidi Okonkwo,Male,29,Youth,North West,Kano,STR02,Kano Branch 2,PRD278,Rice 5kg,Groceries,Grains,9,4500,0,40500,Pos,SR007,Babatunde Okafor,Corporate,No
+TXN10365,14/01/2023,CUST1160,Emeka Adeyemi,Male,27,Youth,North West,Kano,STR01,Kano Branch 1,PRD189,Office Chair,Home & Kitchen,Furniture,4,38000,0.2,152000,Transfer,SR005,Ibrahim Musa,Online,No
+TXN10366,27/02/2023,CUST1139,Hauwa Musa,N/A,UNKNOWN,UNKNOWN,North Central,Abuja,STR07,Abuja Branch 1,PRD942,Acer Aspire 5,Electronics,Laptops,3,275000,0.15,825000,Card,SR002,Fatima Bello,Corporate,No
+TXN10367,18/08/2023,CUST1011,Fatima Musa,N/A,23,Youth,North West,Kano,STR09,Kano Branch 2,PRD901,Bookshelf,Home & Kitchen,Furniture,10,18000,0.05,180000,Transfer,SR005,Ibrahim Musa,Loyal,No
+TXN10368,06/02/2023,CUST1017,Blessing Adeyemi,Female,48,Adult,South West,Abeokuta,STR12,Abeokuta Branch 2,PRD637,Nescafe Classic,Groceries,Beverages,7,3500,0.05,24500,Transfer,SR003,Tunde Adeyemi,Loyal,No
+TXN10369,16/07/2024,CUST1148,Hauwa Obi,Female,23,Youth,South East,Aba,STR12,Aba Branch 3,PRD637,Nescafe Classic,Groceries,Beverages,1,3500,0,3500,Cash,SR006,Ngozi Eze,Online,No
+TXN10370,28/05/2023,CUST1035,Yetunde Nwosu,Female,65,Elder,South West,Abeokuta,STR07,Abeokuta Branch 3,PRD215,Samsung Galaxy A54,Electronics,Phones,10,210000,0,2100000,Transfer,SR006,Ngozi Eze,Loyal,No
+TXN10371,13/01/2023,CUST1191,Yetunde Adeyemi,Female,26,Youth,North West,Sokoto,STR08,Sokoto Branch 2,PRD236,Traditional Agbada,Clothing,Men's Wear,2,28000,0,56000,Transfer,SR003,Tunde Adeyemi,Walk-In,Yes
+TXN10372,27/11/2024,CUST1078,Bode Badmus,Male,50,Adult,South South,Warri,STR05,Warri Branch 1,PRD915,Study Table,Home & Kitchen,Furniture,7,22000,0.15,154000,Pos,SR008,Aisha Mohammed,Corporate,Yes
+TXN10373,19/02/2024,CUST1026,Ngozi Eze,Female,24,Youth,South West,Ibadan,STR06,Ibadan Branch 1,PRD637,Nescafe Classic,Groceries,Beverages,10,3500,0,35000,Cash,SR004,Grace Nwosu,Online,No
+TXN10374,08/01/2024,CUST1002,Hauwa Okafor,Female,37,Adult,North Central,Jos,STR09,Jos Branch 1,PRD283,Corporate Shirt,Clothing,Men's Wear,6,8500,0.2,51000,Transfer,SR001,Chukwuemeka Obi,Walk-In,Yes
+TXN10375,02/08/2023,CUST1059,Hauwa Musa,Female,63,Elder,South South,Benin City,STR12,Benin City Branch 1,PRD721,Wardrobe (2-door),Home & Kitchen,Furniture,6,95000,0.1,570000,Card,SR001,Chukwuemeka Obi,Loyal,Yes
+TXN10376,17/09/2024,CUST1036,Nneka Okonkwo,Female,18,Youth,North Central,Lokoja,STR02,Lokoja Branch 2,PRD948,Dell Inspiron 15,Electronics,Laptops,2,320000,0,640000,Online,SR005,Ibrahim Musa,Corporate,No
+TXN10377,28/03/2024,CUST1102,Fatima Yakubu,Female,36,Adult,South East,Aba,STR03,Aba Branch 2,PRD219,Corporate Suit,Clothing,Women's Wear,2,32000,0.15,64000,Cash,SR001,Chukwuemeka Obi,Loyal,No
+TXN10378,28/07/2024,CUST1057,Fatima Bello,Female,22,Youth,South East,Onitsha,STR06,Onitsha Branch 2,PRD120,Paracetamol 500mg,Health & Beauty,Medicines,2,350,0.05,700,Card,SR004,Grace Nwosu,Corporate,Yes
+TXN10379,17/12/2023,CUST1009,Ibrahim Badmus,Male,47,Adult,North West,Kano,STR03,Kano Branch 3,PRD872,Dankwa Groundnut,Groceries,Snacks,1,500,0.05,500,Cash,SR001,Chukwuemeka Obi,Loyal,No
+TXN10380,12/01/2024,CUST1076,Kola Musa,N/A,23,Youth,South East,Onitsha,STR11,Onitsha Branch 2,PRD131,Golden Penny Pasta,Groceries,Grains,5,1500,0.05,7500,Transfer,SR007,Babatunde Okafor,Online,Yes
+TXN10381,28/07/2024,CUST1082,Aisha Musa,Female,27,Youth,North Central,Abuja,STR08,Abuja Branch 1,PRD673,Iron Tablets,Health & Beauty,Supplements,5,1500,0.2,7500,Transfer,SR008,Aisha Mohammed,Loyal,No
+TXN10383,07/01/2023,CUST1174,Amaka Mohammed,Female,62,Elder,South East,Aba,STR10,Aba Branch 1,PRD173,USB-C Cable,Electronics,Accessories,10,2500,0.1,25000,Pos,SR008,Aisha Mohammed,Walk-In,No
+TXN10384,03/06/2024,CUST1031,Hauwa Obi,Female,48,Adult,North Central,Jos,STR11,Jos Branch 3,PRD981,Vitamin C Tablets,Health & Beauty,Medicines,9,1200,0.2,10800,Card,SR004,Grace Nwosu,Walk-In,Yes
+TXN10386,05/10/2023,CUST1141,Uche Mohammed,Male,34,Youth,South South,Warri,STR02,Warri Branch 1,PRD231,Multivitamin Pack,Health & Beauty,Supplements,1,6200,0.1,6200,Card,SR001,Chukwuemeka Obi,Loyal,No
+TXN10387,10/11/2024,CUST1137,Kola Nwosu,N/A,30,Youth,South South,Benin City,STR07,Benin City Branch 2,PRD173,USB-C Cable,Electronics,Accessories,10,2500,0,25000,Pos,SR003,Tunde Adeyemi,Online,No
+TXN10388,04/06/2023,CUST1105,Blessing Nwosu,Female,19,Youth,South West,Ibadan,STR02,Ibadan Branch 1,PRD981,Vitamin C Tablets,Health & Beauty,Medicines,3,1200,0.15,3600,Cash,SR002,Fatima Bello,Online,Yes
+TXN10389,20/09/2024,CUST1155,Chidi Obi,Male,30,Youth,South West,Abeokuta,STR09,ABEOKUTA Branch 1,PRD461,Milo 400g,Groceries,Beverages,6,2200,0,13200,Pos,SR005,Ibrahim Musa,Corporate,No
+TXN10390,23/12/2023,CUST1102,Musa Adesanya,Male,50,Adult,South South,Warri,STR11,Warri Branch 3,PRD121,Office Heels,Clothing,Footwear,3,12000,0.05,36000,Card,SR005,Ibrahim Musa,Online,No
+TXN10391,15/03/2024,CUST1130,Fatima Okonkwo,N/A,20,Youth,North Central,Lokoja,STR10,Lokoja Branch 3,PRD554,Blender,Home & Kitchen,Appliances,7,12000,0,84000,Transfer,SR006,Ngozi Eze,Loyal,Yes
+TXN10392,23/11/2023,CUST1143,Kola Nwosu,Male,32,Youth,South West,Ibadan,STR04,Ibadan Branch 3,PRD639,Pringles Can,Groceries,Snacks,10,3200,0,32000,Transfer,SR004,Grace Nwosu,Loyal,No
+TXN10393,25/05/2024,CUST1151,Aisha Musa,N/A,38,Adult,South East,Enugu,STR05,Enugu Branch 1,PRD114,Pressure Cooker,Home & Kitchen,Cookware,7,16000,0,112000,Cash,SR002,Fatima Bello,Corporate,No
+TXN10394,03/01/2024,CUST1126,Ngozi Eze,N/A,38,Adult,North West,Kano,STR12,Kano Branch 2,PRD148,Dove Soap 6-Pack,Health & Beauty,Skincare,10,3500,0,35000,Pos,SR006,Ngozi Eze,Loyal,Yes
+TXN10395,04/01/2023,CUST1066,Blessing Obi,Female,21,Youth,South West,Lagos,STR05,LAGOS Branch 1,PRD219,Corporate Suit,Clothing,Women's Wear,3,32000,0,96000,Transfer,SR007,Babatunde Okafor,Loyal,No
+TXN10396,18/06/2024,CUST1123,Hauwa Okonkwo,Female,64,Elder,South South,Port Harcourt,STR05,Port Harcourt Branch 3,PRD831,Tecno Spark 20,Electronics,Phones,2,85000,0.15,170000,Cash,SR008,Aisha Mohammed,Corporate,No
+TXN10397,15/12/2023,CUST1181,Amaka Obi,Female,37,Adult,South East,Aba,STR09,Aba Branch 1,PRD337,Beans 2kg,Groceries,Grains,9,3800,0,34200,Card,SR003,Tunde Adeyemi,Loyal,No
+TXN10398,14/08/2024,CUST1047,Hauwa Musa,Female,47,Adult,North Central,Abuja,STR09,Abuja Branch 2,PRD236,Traditional Agbada,Clothing,Men's Wear,7,28000,0,196000,Cash,SR008,Aisha Mohammed,Online,Yes
+TXN10399,26/10/2024,CUST1135,Ibrahim Bello,Male,35,Youth,North West,Kaduna,STR02,Kaduna Branch 3,PRD215,Samsung Galaxy A54,Electronics,Phones,1,210000,0.1,210000,Pos,SR005,Ibrahim Musa,Loyal,Yes
+TXN10400,14/04/2023,CUST1163,Chioma Adesanya,Female,40,Adult,North Central,Lokoja,STR12,Lokoja Branch 1,PRD120,Power Bank,Electronics,Accessories,5,12000,0.15,60000,Pos,SR003,Tunde Adeyemi,Loyal,Yes
+TXN10401,26/05/2023,CUST1019,Dayo Mohammed,Male,34,Youth,South South,Benin City,STR01,Benin City Branch 3,PRD630,Blouse Set,Clothing,Women's Wear,8,7000,0,56000,Cash,SR003,Tunde Adeyemi,Loyal,No
+TXN10402,12/10/2023,CUST1117,Kola Obi,Male,41,Adult,South West,Ibadan,STR06,Ibadan Branch 3,PRD189,Office Chair,Home & Kitchen,Furniture,3,38000,0,114000,Transfer,SR008,Aisha Mohammed,Walk-In,No
+TXN10403,13/12/2024,CUST1163,Seun Badmus,N/A,42,Adult,South West,Ibadan,STR11,Ibadan Branch 3,PRD148,Dove Soap 6-Pack,Health & Beauty,Skincare,6,3500,0,21000,Pos,SR004,Grace Nwosu,Walk-In,Yes
+TXN10404,05/06/2023,CUST1175,Uche Eze,Male,49,Adult,South South,Warri,STR09,Warri Branch 2,PRD864,Frying Pan,Home & Kitchen,Cookware,2,45000,0,90000,Pos,SR002,Fatima Bello,Walk-In,No
+TXN10405,16/03/2024,CUST1128,Ngozi Okafor,Female,36,Adult,North West,Kano,STR12,Kano Branch 2,PRD639,Pringles Can,Groceries,Snacks,5,3200,0.2,16000,Card,SR007,Babatunde Okafor,Corporate,No
+TXN10406,11/06/2023,CUST1035,Nneka Mohammed,Female,55,Adult,South South,Warri,STR09,Warri Branch 1,PRD424,Loafers,Clothing,Footwear,9,14000,0,126000,Transfer,SR008,Aisha Mohammed,Loyal,Yes
+TXN10407,12/02/2024,CUST1007,Kola Mohammed,Male,47,Adult,North West,Kano,STR07,Kano Branch 1,PRD837,Lipton Tea Box,Groceries,Beverages,9,1200,0,10800,Cash,SR007,Babatunde Okafor,Loyal,Yes
+TXN10408,18/04/2024,CUST1166,Amaka Adesanya,Female,35,Youth,South West,Ibadan,STR05,Ibadan Branch 3,PRD466,Olay Face Cream,Health & Beauty,Skincare,9,8500,0,76500,Online,SR003,Tunde Adeyemi,Loyal,No
+TXN10409,15/11/2023,CUST1039,Dayo Yakubu,Male,18,Youth,North West,Kano,STR04,Kano Branch 1,PRD942,Acer Aspire 5,Electronics,Laptops,1,275000,0,275000,Cash,SR005,Ibrahim Musa,Walk-In,No
+TXN10410,23/09/2024,CUST1043,Ngozi Adeyemi,Female,33,Youth,North West,Sokoto,STR04,Sokoto Branch 2,PRD673,Iron Tablets,Health & Beauty,Supplements,6,1500,0,9000,Online,SR007,Babatunde Okafor,Corporate,No
+TXN10412,30/07/2024,CUST1017,Chidi Bello,Male,43,Adult,South East,Onitsha,STR10,Onitsha Branch 3,PRD399,Chin Chin 500g,Groceries,Snacks,5,800,0,4000,Card,SR002,Fatima Bello,Walk-In,No
+TXN10413,06/12/2023,CUST1197,Tunde Adesanya,Male,32,Youth,South South,Port Harcourt,STR03,Port Harcourt Branch 3,PRD808,Vaseline Body Lotion,Health & Beauty,Skincare,10,2800,0.05,28000,Transfer,SR001,Chukwuemeka Obi,Loyal,Yes
+TXN10414,04/05/2024,CUST1173,Uche Obi,Male,46,Adult,North Central,Abuja,STR03,Abuja Branch 2,PRD189,Office Chair,Home & Kitchen,Furniture,2,38000,0,76000,Card,SR002,Fatima Bello,Online,No
+TXN10415,19/10/2024,CUST1158,Aisha Yakubu,Female,40,Adult,North West,Kano,STR08,Kano Branch 2,PRD466,Olay Face Cream,Health & Beauty,Skincare,5,8500,0,42500,Transfer,SR001,Chukwuemeka Obi,Loyal,No
+TXN10416,15/09/2023,CUST1061,Chidi Adeyemi,N/A,54,Adult,North West,Sokoto,STR07,Sokoto Branch 3,PRD120,Power Bank,Electronics,Accessories,5,12000,0,60000,Transfer,SR001,Chukwuemeka Obi,Loyal,No
+TXN10417,04/12/2023,CUST1156,Emeka Nwosu,Male,54,Adult,South West,Ibadan,STR07,Ibadan Branch 3,PRD114,Pressure Cooker,Home & Kitchen,Cookware,5,16000,0,80000,Transfer,SR007,Babatunde Okafor,Corporate,No
+TXN10418,22/08/2023,CUST1175,Emeka Nwosu,Male,61,Elder,South West,Abeokuta,STR07,Abeokuta Branch 2,PRD461,Milo 400g,Groceries,Beverages,8,2200,0,17600,Cash,SR006,Ngozi Eze,Corporate,No
+TXN10419,04/05/2023,CUST1145,Yetunde Badmus,Female,52,Adult,South West,Lagos,STR04,Lagos Branch 1,PRD948,Dell Inspiron 15,Electronics,Laptops,5,320000,0,1600000,Pos,SR003,Tunde Adeyemi,Walk-In,Yes
+TXN10420,05/06/2023,CUST1056,Musa Obi,Male,40,Adult,South East,Aba,STR06,Aba Branch 3,PRD219,Corporate Suit,Clothing,Women's Wear,9,32000,0.15,288000,Online,SR005,Ibrahim Musa,Walk-In,No
+TXN10421,17/06/2024,CUST1009,Bode Nwosu,Male,27,Youth,South South,Benin City,STR08,Benin City Branch 1,PRD903,MacBook Air,Electronics,Laptops,7,890000,0,6230000,Card,SR008,Aisha Mohammed,Walk-In,Yes
+TXN10422,15/02/2023,CUST1078,Chidi Okonkwo,Male,UNKNOWN,UNKNOWN,South West,Abeokuta,STR01,Abeokuta Branch 3,PRD557,Canvas Sneakers,Clothing,Footwear,1,9500,0.05,9500,Cash,SR002,Fatima Bello,Walk-In,Yes
+TXN10423,25/11/2024,CUST1066,Hauwa Mohammed,Female,51,Adult,South South,Warri,STR04,Warri Branch 1,PRD514,HP Pavilion,Electronics,Laptops,4,285000,0,1140000,Pos,SR006,Ngozi Eze,Online,No
+TXN10424,14/09/2024,CUST1113,Amaka Okonkwo,N/A,29,Youth,South East,Enugu,STR08,Enugu Branch 1,PRD138,T-Shirt 3-Pack,Clothing,Men's Wear,1,6500,0.1,6500,Transfer,SR002,Fatima Bello,Corporate,No
+TXN10425,10/10/2023,CUST1167,Chidi Nwosu,Male,57,Adult,South West,Lagos,STR01,Lagos Branch 1,PRD364,Microwave Oven,Home & Kitchen,Appliances,4,65000,0,260000,Cash,SR006,Ngozi Eze,Walk-In,No
+TXN10426,25/12/2023,CUST1146,Hauwa Musa,Female,38,Adult,North Central,Lokoja,STR11,Lokoja Branch 2,PRD219,Corporate Suit,Clothing,Women's Wear,7,32000,0,224000,Cash,SR003,Tunde Adeyemi,Online,No
+TXN10427,03/06/2023,CUST1199,Tunde Yakubu,Male,63,Elder,North West,Sokoto,STR04,Sokoto Branch 2,PRD915,Study Table,Home & Kitchen,Furniture,7,22000,0,154000,Card,SR002,Fatima Bello,Walk-In,No
+TXN10428,11/06/2024,CUST1084,Kola Bello,Male,33,Youth,South South,Warri,STR06,Warri Branch 3,PRD819,Lenovo IdeaPad,Electronics,Laptops,2,295000,0.15,590000,Online,SR004,Grace Nwosu,Corporate,Yes
+TXN10429,09/05/2023,CUST1073,Yetunde Okonkwo,Female,34,Youth,North Central,Jos,STR07,Jos Branch 2,PRD915,Study Table,Home & Kitchen,Furniture,3,22000,0,66000,Online,SR002,Fatima Bello,Loyal,No
+TXN10430,25/01/2023,CUST1090,Chidi Obi,Male,45,Adult,South South,Warri,STR04,Warri Branch 3,PRD855,Skirt & Blouse,Clothing,Women's Wear,10,8000,0,80000,Transfer,SR008,Aisha Mohammed,Corporate,No
+TXN10431,22/03/2024,CUST1021,Chidi Badmus,Male,50,Adult,South South,Port Harcourt,STR06,Port Harcourt Branch 3,PRD355,Calcium 600mg,Health & Beauty,Supplements,5,2800,0,14000,Cash,SR007,Babatunde Okafor,Online,Yes
+TXN10432,02/07/2023,CUST1080,Ibrahim Mohammed,Male,57,Adult,South West,Ibadan,STR02,Ibadan Branch 2,PRD236,Traditional Agbada,Clothing,Men's Wear,5,28000,0.15,140000,Pos,SR003,Tunde Adeyemi,Walk-In,No
+TXN10433,06/04/2024,CUST1001,Uche Okafor,Male,30,Youth,South East,Enugu,STR05,Enugu Branch 3,PRD527,Zinc Supplement,Health & Beauty,Medicines,2,2500,0.05,5000,Online,SR005,Ibrahim Musa,Walk-In,No
+TXN10434,15/11/2024,CUST1040,Chidi Badmus,N/A,38,Adult,North West,Kaduna,STR11,Kaduna Branch 3,PRD901,Bookshelf,Home & Kitchen,Furniture,1,18000,0,18000,Cash,SR001,Chukwuemeka Obi,Loyal,No
+TXN10435,23/08/2024,CUST1187,Aisha Bello,Female,29,Youth,South East,Onitsha,STR11,Onitsha Branch 1,PRD416,Water Dispenser,Home & Kitchen,Appliances,2,45000,0,90000,Card,SR005,Ibrahim Musa,Walk-In,Yes
+TXN10436,29/08/2023,CUST1074,Bode Okonkwo,Male,32,Youth,South East,Onitsha,STR07,Onitsha Branch 3,PRD283,Corporate Shirt,Clothing,Men's Wear,5,8500,0.05,42500,Pos,SR003,Tunde Adeyemi,Corporate,Yes
+TXN10437,22/12/2023,CUST1105,Chidi Adesanya,Male,56,Adult,South South,Port Harcourt,STR09,Port Harcourt Branch 1,PRD527,Zinc Supplement,Health & Beauty,Medicines,6,2500,0,15000,Cash,SR005,Ibrahim Musa,Corporate,No
+TXN10438,16/02/2023,CUST1028,Ibrahim Yakubu,Male,58,Adult,North West,Sokoto,STR10,Sokoto Branch 3,PRD514,HP Pavilion,Electronics,Laptops,6,285000,0.15,1710000,Cash,SR004,Grace Nwosu,Online,No
+TXN10439,07/02/2024,CUST1105,Ibrahim Bello,Male,39,Adult,South South,Benin City,STR01,Benin City Branch 1,PRD120,Power Bank,Electronics,Accessories,8,12000,0,96000,Cash,SR001,Chukwuemeka Obi,Online,No
+TXN10440,22/01/2024,CUST1195,Chioma Musa,Female,63,Elder,South East,Enugu,STR09,ENUGU Branch 3,PRD872,Dankwa Groundnut,Groceries,Snacks,4,500,0.05,2000,Cash,SR005,Ibrahim Musa,Online,No
+TXN10441,28/09/2023,CUST1143,Hauwa Mohammed,Female,44,Adult,North Central,Jos,STR12,Jos Branch 3,PRD925,Knife Set,Home & Kitchen,Cookware,6,6000,0.1,36000,Cash,SR007,Babatunde Okafor,Loyal,No
+TXN10442,30/07/2024,CUST1143,Ngozi Adeyemi,N/A,24,Youth,South South,Port Harcourt,STR08,Port Harcourt Branch 3,PRD337,Beans 2kg,Groceries,Grains,8,3800,0,30400,Online,SR005,Ibrahim Musa,Corporate,No
+TXN10443,06/04/2023,CUST1176,Uche Yakubu,Male,UNKNOWN,UNKNOWN,South South,Benin City,STR09,Benin City Branch 2,PRD174,Gown (Lace),Clothing,Women's Wear,9,22000,0,198000,Card,SR002,Fatima Bello,Corporate,No
+TXN10444,15/06/2023,CUST1108,Chidi Nwosu,Male,20,Youth,South East,Enugu,STR09,Enugu Branch 2,PRD278,Rice 5kg,Groceries,Grains,5,4500,0.15,22500,Pos,SR006,Ngozi Eze,Walk-In,Yes
+TXN10445,19/06/2023,CUST1064,Aisha Yakubu,Female,56,Adult,South East,Onitsha,STR06,Onitsha Branch 3,PRD278,Rice 5kg,Groceries,Grains,6,4500,0,27000,Cash,SR005,Ibrahim Musa,Loyal,No
+TXN10446,04/07/2023,CUST1089,Ibrahim Okafor,N/A,22,Youth,North West,Kano,STR01,Kano Branch 1,PRD855,Skirt & Blouse,Clothing,Women's Wear,5,8000,0.1,40000,Cash,SR002,Fatima Bello,Walk-In,No
+TXN10447,08/10/2023,CUST1196,Amaka Musa,N/A,59,Adult,South East,Onitsha,STR10,Onitsha Branch 3,PRD424,Loafers,Clothing,Footwear,4,14000,0,56000,Transfer,SR003,Tunde Adeyemi,Loyal,No
+TXN10448,28/11/2023,CUST1083,Chidi Obi,Male,48,Adult,North Central,Lokoja,STR04,Lokoja Branch 3,PRD527,Zinc Supplement,Health & Beauty,Medicines,5,2500,0,12500,Cash,SR003,Tunde Adeyemi,Loyal,No
+TXN10449,23/03/2024,CUST1089,Musa Okonkwo,Male,59,Adult,South South,Port Harcourt,STR08,Port Harcourt Branch 3,PRD557,Canvas Sneakers,Clothing,Footwear,7,9500,0,66500,Online,SR006,Ngozi Eze,Walk-In,No
+TXN10451,31/12/2024,CUST1014,Chidi Adeyemi,Male,25,Youth,South East,Aba,STR06,Aba Branch 1,PRD721,Wardrobe (2-door),Home & Kitchen,Furniture,1,95000,0.15,95000,Transfer,SR006,Ngozi Eze,Walk-In,No
+TXN10452,17/02/2024,CUST1186,Emeka Musa,Male,27,Youth,North Central,Abuja,STR01,Abuja Branch 2,PRD849,Standing Fan,Home & Kitchen,Appliances,5,18000,0.1,90000,Pos,SR008,Aisha Mohammed,Walk-In,No
+TXN10453,07/06/2023,CUST1043,Blessing Yakubu,Female,UNKNOWN,UNKNOWN,South West,Lagos,STR08,Lagos Branch 1,PRD637,Nescafe Classic,Groceries,Beverages,5,3500,0,17500,Transfer,SR007,Babatunde Okafor,Loyal,No
+TXN10454,24/07/2023,CUST1148,Bode Badmus,N/A,40,Adult,North Central,Jos,STR09,Jos Branch 2,PRD872,Dankwa Groundnut,Groceries,Snacks,3,500,0,1500,Pos,SR004,Grace Nwosu,Online,No
+TXN10455,08/04/2023,CUST1047,Musa Okafor,Male,58,Adult,South East,Enugu,STR06,Enugu Branch 2,PRD554,Blender,Home & Kitchen,Appliances,2,12000,0,24000,Card,SR008,Aisha Mohammed,Online,Yes
+TXN10456,13/04/2023,CUST1112,Uche Adeyemi,N/A,19,Youth,North West,Kaduna,STR12,Kaduna Branch 2,PRD582,Protein Powder 1kg,Health & Beauty,Supplements,10,18000,0,180000,Pos,SR007,Babatunde Okafor,Corporate,No
+TXN10457,15/02/2024,CUST1134,Amaka Adeyemi,Female,62,Elder,South South,Benin City,STR03,Benin City Branch 3,PRD236,Traditional Agbada,Clothing,Men's Wear,3,28000,0,84000,Transfer,SR004,Grace Nwosu,Loyal,No
+TXN10458,07/09/2023,CUST1198,Yetunde Musa,Female,53,Adult,North Central,Abuja,STR06,Abuja Branch 1,PRD554,Nivea Deodorant,Health & Beauty,Skincare,7,2200,0,15400,Card,SR003,Tunde Adeyemi,Online,No
+TXN10459,01/12/2023,CUST1171,Yetunde Yakubu,Female,49,Adult,North West,Kano,STR10,Kano Branch 1,PRD837,Lipton Tea Box,Groceries,Beverages,10,1200,0,12000,Online,SR004,Grace Nwosu,Walk-In,No
+TXN10460,04/06/2023,CUST1123,Chidi Mohammed,Male,61,Elder,South West,Ibadan,STR07,Ibadan Branch 1,PRD979,Coca-Cola 50cl,Groceries,Beverages,2,400,0.05,800,Cash,SR003,Tunde Adeyemi,Online,No
+TXN10461,29/01/2024,CUST1077,Dayo Okonkwo,Male,21,Youth,South East,Onitsha,STR02,Onitsha Branch 3,PRD582,Protein Powder 1kg,Health & Beauty,Supplements,9,18000,0.05,162000,Card,SR002,Fatima Bello,Loyal,No
+TXN10462,25/12/2024,CUST1118,Amaka Yakubu,Female,21,Youth,North Central,Abuja,STR08,Abuja Branch 2,PRD121,Office Heels,Clothing,Footwear,5,12000,0,60000,Pos,SR003,Tunde Adeyemi,Online,Yes
+TXN10463,04/02/2024,CUST1189,Emeka Yakubu,Male,52,Adult,South East,Enugu,STR09,Enugu Branch 1,PRD131,Golden Penny Pasta,Groceries,Grains,6,1500,0.2,9000,Online,SR001,Chukwuemeka Obi,Walk-In,Yes
+TXN10464,31/05/2023,CUST1163,Tunde Mohammed,Male,39,Adult,North Central,Jos,STR03,Jos Branch 3,PRD138,T-Shirt 3-Pack,Clothing,Men's Wear,2,6500,0.1,13000,Cash,SR001,Chukwuemeka Obi,Online,No
+TXN10465,23/03/2024,CUST1102,Chidi Bello,Male,UNKNOWN,UNKNOWN,South South,Benin City,STR01,Benin City Branch 2,PRD163,Semovita 2kg,Groceries,Grains,5,2800,0,14000,Pos,SR004,Grace Nwosu,Loyal,No
+TXN10466,15/08/2023,CUST1138,Nneka Adesanya,N/A,39,Adult,South East,Onitsha,STR01,Onitsha Branch 2,PRD138,T-Shirt 3-Pack,Clothing,Men's Wear,8,6500,0,52000,Card,SR001,Chukwuemeka Obi,Loyal,No
+TXN10467,28/07/2024,CUST1192,Ibrahim Badmus,Male,36,Adult,North Central,Jos,STR01,Jos Branch 1,PRD638,Bedside Table,Home & Kitchen,Furniture,7,12000,0.1,84000,Online,SR004,Grace Nwosu,Corporate,No
+TXN10468,05/07/2023,CUST1196,Aisha Musa,Female,28,Youth,South East,Aba,STR04,Aba Branch 2,PRD189,Office Chair,Home & Kitchen,Furniture,6,38000,0.05,228000,Online,SR008,Aisha Mohammed,Online,No
+TXN10469,07/01/2023,CUST1025,Bode Eze,Male,61,Elder,South East,Aba,STR07,Aba Branch 2,PRD837,Lipton Tea Box,Groceries,Beverages,10,1200,0.05,12000,Cash,SR006,Ngozi Eze,Walk-In,No
+TXN10470,10/02/2024,CUST1099,Kola Okafor,Male,59,Adult,North West,Sokoto,STR03,Sokoto Branch 2,PRD630,Blouse Set,Clothing,Women's Wear,6,7000,0,42000,Online,SR008,Aisha Mohammed,Loyal,No
+TXN10471,01/07/2023,CUST1062,Fatima Yakubu,Female,28,Youth,South East,Aba,STR01,Aba Branch 3,PRD120,Power Bank,Electronics,Accessories,7,12000,0.15,84000,Pos,SR001,Chukwuemeka Obi,Corporate,No
+TXN10472,03/03/2023,CUST1166,Emeka Eze,Male,58,Adult,South East,Onitsha,STR02,Onitsha Branch 1,PRD338,Chinos Trousers,Clothing,Men's Wear,6,12000,0.2,72000,Online,SR004,Grace Nwosu,Online,No
+TXN10473,12/11/2024,CUST1113,Dayo Nwosu,Male,62,Elder,North Central,Jos,STR10,Jos Branch 2,PRD750,Electric Iron,Home & Kitchen,Appliances,9,8500,0,76500,Pos,SR005,Ibrahim Musa,Loyal,No
+TXN10474,11/09/2023,CUST1155,Musa Adeyemi,Male,27,Youth,North Central,Jos,STR04,Jos Branch 1,PRD248,Peak Milk,Groceries,Beverages,6,1800,0.05,10800,Online,SR003,Tunde Adeyemi,Online,No
+TXN10475,28/05/2024,CUST1044,Adaeze Adesanya,N/A,48,Adult,South East,Onitsha,STR02,ONITSHA Branch 2,PRD337,Beans 2kg,Groceries,Grains,2,3800,0.15,7600,Cash,SR004,Grace Nwosu,Loyal,No
+TXN10476,02/03/2023,CUST1189,Kola Obi,Male,52,Adult,North West,Kano,STR01,Kano Branch 2,PRD915,Study Table,Home & Kitchen,Furniture,4,22000,0.1,88000,Pos,SR005,Ibrahim Musa,Walk-In,No
+TXN10477,07/03/2023,CUST1194,Amaka Bello,Female,55,Adult,North West,Kaduna,STR09,Kaduna Branch 1,PRD385,Ankara Dress,Clothing,Women's Wear,8,9500,0,76000,Online,SR005,Ibrahim Musa,Walk-In,No
+TXN10478,25/04/2023,CUST1000,Ibrahim Yakubu,Male,47,Adult,North Central,Jos,STR08,Jos Branch 3,PRD131,Golden Penny Pasta,Groceries,Grains,5,1500,0.1,7500,Pos,SR008,Aisha Mohammed,Walk-In,No
+TXN10479,23/11/2023,CUST1110,Hauwa Adesanya,Female,UNKNOWN,UNKNOWN,North Central,Abuja,STR08,Abuja Branch 2,PRD750,Electric Iron,Home & Kitchen,Appliances,4,8500,0.05,34000,Pos,SR005,Ibrahim Musa,Walk-In,No
+TXN10480,06/08/2023,CUST1083,Yetunde Adeyemi,Female,28,Youth,North West,Kaduna,STR07,Kaduna Branch 3,PRD219,Corporate Suit,Clothing,Women's Wear,3,32000,0,96000,Online,SR005,Ibrahim Musa,Corporate,Yes
+TXN10481,01/06/2023,CUST1196,Emeka Mohammed,Male,47,Adult,North Central,Abuja,STR04,Abuja Branch 1,PRD174,Gown (Lace),Clothing,Women's Wear,7,22000,0,154000,Online,SR005,Ibrahim Musa,Walk-In,No
+TXN10482,30/11/2023,CUST1099,Uche Adesanya,Male,60,Elder,South East,Enugu,STR10,Enugu Branch 3,PRD148,Dove Soap 6-Pack,Health & Beauty,Skincare,5,3500,0.05,17500,Transfer,SR002,Fatima Bello,Online,Yes
+TXN10483,06/04/2023,CUST1139,Aisha Obi,Female,54,Adult,North Central,Lokoja,STR05,Lokoja Branch 3,PRD995,Phone Case,Electronics,Accessories,6,3500,0,21000,Transfer,SR008,Aisha Mohammed,Loyal,No
+TXN10484,23/07/2023,CUST1030,Musa Bello,Male,26,Youth,South East,Onitsha,STR08,Onitsha Branch 1,PRD901,Bookshelf,Home & Kitchen,Furniture,1,18000,0.2,18000,Transfer,SR008,Aisha Mohammed,Online,Yes
+TXN10485,19/03/2023,CUST1146,Fatima Obi,Female,23,Youth,South East,Aba,STR04,Aba Branch 1,PRD231,Multivitamin Pack,Health & Beauty,Supplements,6,6200,0.1,37200,Card,SR001,Chukwuemeka Obi,Corporate,No
+TXN10487,02/12/2023,CUST1059,Aisha Nwosu,Female,35,Youth,South South,Warri,STR08,WARRI Branch 1,PRD231,Multivitamin Pack,Health & Beauty,Supplements,7,6200,0.2,43400,Card,SR002,Fatima Bello,Walk-In,No
+TXN10488,15/08/2024,CUST1091,Chidi Nwosu,Male,56,Adult,North Central,Jos,STR02,Jos Branch 3,PRD385,Ankara Dress,Clothing,Women's Wear,1,9500,0,9500,Transfer,SR006,Ngozi Eze,Online,No
+TXN10489,29/10/2024,CUST1004,Tunde Okonkwo,Male,48,Adult,North Central,Lokoja,STR06,Lokoja Branch 1,PRD637,Nescafe Classic,Groceries,Beverages,9,3500,0,31500,Cash,SR005,Ibrahim Musa,Online,Yes
+TXN10490,03/05/2024,CUST1028,Adaeze Badmus,Female,41,Adult,South South,Port Harcourt,STR05,Port Harcourt Branch 2,PRD385,Ankara Dress,Clothing,Women's Wear,1,9500,0,9500,Transfer,SR007,Babatunde Okafor,Walk-In,Yes
+TXN10491,21/06/2024,CUST1028,Emeka Eze,Male,22,Youth,South East,Onitsha,STR09,Onitsha Branch 2,PRD248,Peak Milk,Groceries,Beverages,8,1800,0.15,14400,Transfer,SR002,Fatima Bello,Corporate,No
+TXN10492,08/07/2024,CUST1021,Amaka Adeyemi,Female,60,Elder,South West,Abeokuta,STR10,Abeokuta Branch 1,PRD391,Gala Sausage Roll,Groceries,Snacks,6,350,0.1,2100,Pos,SR003,Tunde Adeyemi,Online,Yes
+TXN10493,29/05/2023,CUST1050,Ngozi Badmus,Female,21,Youth,South South,Port Harcourt,STR01,Port Harcourt Branch 1,PRD381,Garri 5kg,Groceries,Grains,6,3200,0.05,19200,Online,SR004,Grace Nwosu,Corporate,No
+TXN10494,05/01/2023,CUST1087,Bode Eze,Male,34,Youth,South East,Aba,STR02,Aba Branch 3,PRD174,Gown (Lace),Clothing,Women's Wear,1,22000,0.05,22000,Pos,SR002,Fatima Bello,Walk-In,No
+TXN10495,22/12/2023,CUST1101,Bode Musa,Male,29,Youth,North West,Kano,STR11,Kano Branch 1,PRD128,Screen Protector,Electronics,Accessories,3,1800,0,5400,Transfer,SR004,Grace Nwosu,Loyal,No
+TXN10496,13/04/2023,CUST1138,Uche Nwosu,Male,27,Youth,North West,Kaduna,STR05,Kaduna Branch 1,PRD411,Ampiclox Capsules,Health & Beauty,Medicines,8,1800,0,14400,Pos,SR005,Ibrahim Musa,Loyal,No
+TXN10497,25/02/2024,CUST1100,Chidi Nwosu,Male,44,Adult,North West,Kano,STR06,Kano Branch 1,PRD278,Rice 5kg,Groceries,Grains,10,4500,0.15,45000,Pos,SR006,Ngozi Eze,Walk-In,No
+TXN10498,20/06/2024,CUST1138,Uche Adesanya,Male,25,Youth,North West,Kaduna,STR12,Kaduna Branch 2,PRD385,Ankara Dress,Clothing,Women's Wear,8,9500,0.2,76000,Online,SR005,Ibrahim Musa,Loyal,No
+TXN10499,09/09/2024,CUST1110,Blessing Nwosu,Female,62,Elder,South East,Enugu,STR05,Enugu Branch 3,PRD174,Gown (Lace),Clothing,Women's Wear,5,22000,0.2,110000,Online,SR004,Grace Nwosu,Walk-In,No
