@@ -25,7 +25,7 @@ Drills into performance by city, region, and individual store branch, with a sor
 ### 3. Customer Performance Dashboard
 Profiles the customer base by loyalty status, customer type, age group, and gender, and identifies top individual customers by revenue.
 
-![Customer Performance Dashboard](customer_performance_dashboard.png)
+![Customer Performance Dashboard](https://github.com/awedaniel06/Retail-sales-analysis-/blob/main/Customers%20Performance%20Dashboard.png)
 
 **Key metrics:** Total Customers · Total Transactions · Quantity per Customer · Average Order Value (AOV)
 
