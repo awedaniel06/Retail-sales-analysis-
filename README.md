@@ -11,14 +11,14 @@ The report is built as three linked pages — **Overview**, **Regional**, and **
 ### 1. Executive Summary Dashboard
 High-level snapshot of overall business performance: revenue, transactions, quantity sold, and return rate, alongside monthly revenue trends, category mix, payment type breakdown, and returns.
 
-![Executive Summary Dashboard](executive_summary_dashboard.png)
+![Executive Summary Dashboard](https://github.com/awedaniel06/Retail-sales-analysis-/blob/main/Executive%20Summary%20Dashboard.png)
 
 **Key metrics:** Revenue · Total Transactions · Total Quantity · Return Rate · No-Return Rate
 
 ### 2. Regional Performance Dashboard
 Drills into performance by city, region, and individual store branch, with a sortable branch-level table (transactions, quantity, total sales).
 
-![Regional Performance Dashboard](regional_performance_dashboard.png)
+![Regional Performance Dashboard](https://github.com/awedaniel06/Retail-sales-analysis-/blob/main/Regional%20performance%20dashboard.png)
 
 **Key metrics:** Total Regions · Total Transactions · Avg. Quantity · Avg. Revenue
 
