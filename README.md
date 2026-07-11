@@ -40,7 +40,7 @@ Profiles the customer base by loyalty status, customer type, age group, and gend
 - **Elevated returns:** A **22.73%** product return rate is flagged as the most significant area for further investigation.
 - **Customer type:** Walk-In customers generate more revenue and transactions than the Loyal segment, suggesting room to grow loyalty program enrollment.
 
-*See the full [analysis report](./Retail_Dashboard_Performance_Report.pdf) for detailed findings and recommendations.*
+*See the full [analysis report](https://github.com/awedaniel06/Retail-sales-analysis-/blob/main/Retail_Dashboard_Performance_Report-1.pdf) for detailed findings and recommendations.*
 
 ---
 
