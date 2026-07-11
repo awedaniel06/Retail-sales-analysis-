@@ -66,7 +66,7 @@ Profiles the customer base by loyalty status, customer type, age group, and gend
 
 ## 👤 Author
 
-**Sphere (Daniel Awe Olamilekan)**
+**Daniel Awe Olamilekan**
 Data Analyst 
 [LinkedIn](https://www.linkedin.com/in/awedaniel06) · [GitHub](https://www.github.com)
 
